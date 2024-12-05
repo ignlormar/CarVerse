@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CarVerse</string>
+    <string name="texto_bienvenida">Bienvenido!</string>
+    <string name="login_usuario">Nombre de usuario</string>
+    <string name="helper_login_usuario">Escribe un nombre de usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="helper_login_password">Escribe tu contraseña</string>
+    <string name="login_button">Acceder</string>
+    <string name="sp_first_time">sp_first_time</string>
+    <string name="pruebaTitular">Titular</string>
+    <string name="pruebaPreview">Preview</string>
+    <string name="image_description">Imagen de Portada</string>
+    <string name="register_button">Registrarse</string>
+    <string name="cb_recordar">Recuerdame</string>
+    <string name="card_img_description">Fondo de la card</string>
+    <string name="tv_ejemplo_card">Titulo de la card</string>
+</resources>

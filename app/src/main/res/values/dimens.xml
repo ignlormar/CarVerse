@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_min">15dp</dimen>
+    <dimen name="ts_bienvenida">28sp</dimen>
+    <dimen name="login_radius">20dp</dimen>
+    <dimen name="default_card_elevation">8dp</dimen>
+    <dimen name="common_margin_min">8dp</dimen>
+    <dimen name="card_height_size">170dp</dimen>
+    <dimen name="card_image_size">115dp</dimen>
+    <dimen name="margin_texts">5dp</dimen>
+    <dimen name="btn_radius">50dp</dimen>
+    <dimen name="margin_medium">25dp</dimen>
+    <dimen name="card_elevation_min">3dp</dimen>
+    <dimen name="card_radius">7dp</dimen>
+</resources>
