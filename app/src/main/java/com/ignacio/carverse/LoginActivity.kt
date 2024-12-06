@@ -16,7 +16,6 @@ class LoginActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityLoginBinding
     private val PREFS_NAME = "UserPrefs"
-    private val KEY_FIRST_TIME = "sp_first_time"
     private val KEY_USERNAME = "username"
     private val KEY_PASSWORD = "password"
     private val KEY_REMEMBER = "remember"

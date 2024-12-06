@@ -12,4 +12,5 @@
     <dimen name="margin_medium">25dp</dimen>
     <dimen name="card_elevation_min">3dp</dimen>
     <dimen name="card_radius">7dp</dimen>
+    <dimen name="mini_card_height">75dp</dimen>
 </resources>

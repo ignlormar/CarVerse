@@ -14,4 +14,208 @@
     <string name="cb_recordar">Recuerdame</string>
     <string name="card_img_description">Fondo de la card</string>
     <string name="tv_ejemplo_card">Titulo de la card</string>
+
+    <string name="categoria_jdm">1|JDM|https://i.ebayimg.com/images/g/EUkAAOSwi0xZ6PNj/s-l1200.jpg</string>
+    <string name="categoria_euro">2|Euros|https://images.squarespace-cdn.com/content/v1/556917fce4b0599fc802928d/1526574641428-VM1SNCHS5H57MWHUHCZS/_DSC8680.jpg</string>
+    <string name="categoria_muscle">3|Muscle|https://www.dodge.com/content/dam/cross-regional/nafta/dodge/es_mx/Blog/2020/muscle-cars/que-es-un-muscle-car-y-cuales-son-sus-caracteristicas/desktop/dodge-noticias-que-es-un-muscle-car-y-cuales-son-sus-caracteristicas-cuerpo-1-dk.jpg.img.1440.jpg</string>
+    <string name="categoria_exotic">4|Exotic|https://www.celebrationcarshow.com/wp-content/uploads/2023/11/Trio-showcase-slide.jpg</string>
+
+    <string name="jdm_nissan">1|1|Nissan|https://car-logos.net/wp-content/uploads/2023/03/nissan-logo-2020-present-1024x742.webp</string>
+
+    <string name="nissan_skyline_r34">1|1|Skyline GT–R (R34)|url|1999–2002</string>
+    <string name="nissan_350z_370z">2|1|350Z / 370Z (Fairlady Z)|url|2002-presente</string>
+    <string name="nissan_silvia">3|1|Silvia (S13/S14/S15)|url|1988–2002</string>
+    <string name="nissan_240sx">4|1|240SX|url|1989–1998</string>
+    <string name="nissan_gtr_r35">5|1|GT-R (R35)|url|2007-presente</string>
+
+    <string name="jdm_toyota">2|1|Toyota|https://media.toyota.com.ar/7d0bdc4d-fe3a-41b7-b75a-132af918f1fb.png</string>
+
+    <string name="toyota_supra_a80">6|2|Supra (MK4 A80)|url|1993–2002</string>
+    <string name="toyota_ae86">7|2|AE86 (Corolla Trueno/Levin)|url|1983–1987</string>
+    <string name="toyota_celica_gt4">8|2|Celica GT–Four|url|1986–1999</string>
+    <string name="toyota_mr2">9|2|MR2|url|1984–2007</string>
+    <string name="toyota_chaser">10|2|Chaser (JZX100)|url|1996–2001</string>
+
+
+    <string name="jdm_honda">3|1|Honda|https://loodibee.com/wp-content/uploads/Honda-Logo.png</string>
+
+    <string name="honda_civic_type_r">11|3|Civic Type R (EK9/EP3/FD2/FK8)|url|1997-presente</string>
+    <string name="honda_nsx">12|3|NSX (NA1)|url|1990–2005</string>
+    <string name="honda_integra_type_r">13|3|Integra Type R (DC2)|url|1995–2001</string>
+    <string name="honda_s2000">14|3|S2000|url|1999–2009</string>
+    <string name="honda_crx">15|3|CR–X|url|1983–1991</string>
+
+    <string name="jdm_mazda">4|1|Mazda|https://upload.wikimedia.org/wikipedia/nah/b/b1/Mazda_logo.png</string>
+
+    <string name="mazda_rx7">16|4|RX–7 (FD3S)|url|1992–2002</string>
+    <string name="mazda_mx5">17|4|MX-5 Miata (NA/NB)|url|1989-presente</string>
+    <string name="mazda_rx8">18|4|RX–8|url|2003–2012</string>
+    <string name="mazda_m3_mps">19|4|Mazda3 MPS|url|2007–2013</string>
+    <string name="mazda_cosmo">20|4|Cosmo|url|1967–1996</string>
+
+
+    <string name="jdm_subaru">5|1|Subaru|https://pngimg.com/d/subaru_PNG11965.png</string>
+
+    <string name="subaru_impreza_wrx_sti">21|5|Impreza WRX STI (GC8/GDB)|url|1992-presente</string>
+    <string name="subaru_legacy_gt_b">22|5|Legacy GT–B|url|1996–2003</string>
+    <string name="subaru_brz">23|5|BRZ|url|2012-presente</string>
+    <string name="subaru_forester_xt">24|5|Forester XT|url|1997-presente</string>
+    <string name="subaru_svx">25|5|SVX|url|1991–1996</string>
+
+    <string name="jdm_mitsubishi">6|1|Mitsubishi|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/1200px-Mitsubishi_logo.svg.png</string>
+
+    <string name="mitsubishi_lancer_evo">26|6|Lancer Evolution (Evo VI/VIII/IX)|url|1992–2015</string>
+    <string name="mitsubishi_3000gt">27|6|3000GT (GTO)|url|1990–2001</string>
+    <string name="mitsubishi_eclipse">28|6|Eclipse (2G)|url|1995–1999</string>
+    <string name="mitsubishi_starion">29|6|Starion|url|1982–1989</string>
+    <string name="mitsubishi_galant_vr4">30|6|Galant VR–4|url|1988–2002</string>
+
+    <string name="euro_volkswagen">13|2|Volkswagen|https://uploads.vw-mms.de/system/production/images/vwn/030/144/images/6fa5f9117e680d48f54013112746a318e982207d/DB2019AL01949_web_1600.jpg?1649155356</string>
+
+    <string name="volkswagen_golf_gti">46|13|Golf GTI (MK1/MK2)|url|1976-presente</string>
+    <string name="volkswagen_beetle">47|13|Beetle (Type 1)|url|1938–2003</string>
+    <string name="volkswagen_scirocco">48|13|Scirocco|url|1974–1992</string>
+    <string name="volkswagen_passat_w8">49|13|Passat W8|url|2001–2004</string>
+    <string name="volkswagen_corrado_vr6">50|13|Corrado VR6|url|1991–1995</string>
+
+    <string name="euro_audi">14|2|Audi|https://e7.pngegg.com/pngimages/905/811/png-clipart-audi-logo-audi-logo-transport-cars.png</string>
+
+    <string name="audi_quattro">41|14|Quattro (Ur–Quattro)|url|1980–1991</string>
+    <string name="audi_rs2_avant">42|14|RS2 Avant|url|1994–1995</string>
+    <string name="audi_r8">43|14|R8|url|2006-presente</string>
+    <string name="audi_tt_mk1">44|14|TT (MK1)|url|1998–2006</string>
+    <string name="audi_a4_dtm">45|14|A4 DTM Edition|url|2005–2007</string>
+
+    <string name="euro_mercedes">15|2|Mercedes Benz|https://futbolete.com/apuestas/wp-content/uploads/2021/02/Mercedes-Benz-Logo.png</string>
+
+    <string name="mercedes_190e_evo2">36|15|190E 2.5–16 Evolution II|url|1990–1992</string>
+    <string name="mercedes_amg_gt">37|15|AMG GT|url|2015-presente</string>
+    <string name="mercedes_s_class_w140">38|15|S–Class (W140)|url|1991–1998</string>
+    <string name="mercedes_sl500_r129">39|15|SL500 (R129)|url|1989–2001</string>
+    <string name="mercedes_g_class">40|15|G-Class (G-Wagen)|url|1979-presente</string>
+
+    <string name="euro_bmw">16|2|BMW|https://e7.pngegg.com/pngimages/965/441/png-clipart-bmw-car-mercedes-benz-honda-logo-volkswagen-bmw-emblem-logo.png</string>
+
+    <string name="bmw_m3_e30">31|16|M3 (E30)|url|1986–1991</string>
+    <string name="bmw_m5_e39">32|16|M5 (E39)|url|1998–2003</string>
+    <string name="bmw_2002_turbo">33|16|2002 Turbo|url|1973–1974</string>
+    <string name="bmw_z3_m_coupe">34|16|Z3 M Coupe|url|1998–2002</string>
+    <string name="bmw_8_series_e31">35|16|8 Series (E31)|url|1990–1999</string>
+
+    <string name="euro_peugeot">17|2|Peugeot|https://www.marco.es/wp-content/uploads/2021/02/nuevo-logo-peugeot_blanco-1024x818.jpg</string>
+
+    <string name="peugeot_205_gti">96|17|205 GTI|url|1984–1994</string>
+    <string name="peugeot_206_wrc">97|17|206 WRC|url|1999–2003</string>
+    <string name="peugeot_405_mi16">98|17|405 Mi16|url|1987–1997</string>
+    <string name="peugeot_306_gti_6">99|17|306 GTI–6|url|1996–2001</string>
+    <string name="peugeot_508_pse">100|17|508 PSE|url|2019-presente</string>
+
+    <string name="euro_renault">18|2|Renault|https://1000logos.net/wp-content/uploads/2021/03/Renault-logo.png</string>
+
+    <string name="renault_clio_v6">101|18|Clio V6|url|2001–2005</string>
+    <string name="renault_megane_rs">102|18|Megane RS|url|2004-presente</string>
+    <string name="renault_alpine_a110">103|18|Alpine A110|url|1961–1977</string>
+    <string name="renault_5_turbo">104|18|R5 Turbo|url|1980–1986</string>
+    <string name="renault_safrane_biturbo">105|18|Safrane Biturbo|url|1992–1996</string>
+
+
+
+    <string name="muscle_ford">7|3|Ford|https://loodibee.com/wp-content/uploads/Ford-Logo.png</string>
+
+    <string name="ford_mustang">51|7|Mustang (GT500)|url|1967-presente</string>
+    <string name="ford_gt40">52|7|GT40|url|1964–1969</string>
+    <string name="ford_thunderbird">53|7|Thunderbird|url|1955–2005</string>
+    <string name="ford_cobra">54|7|Cobra (AC/Shelby)|url|1962–1967</string>
+    <string name="ford_falcon_xb">55|7|Falcon XB|url|1973–1976</string>
+
+    <string name="muscle_chevrolet">8|3|Chevrolet|https://media.gm.com/dld/content/dam/Media/images/INTL/chevrolet/logos/chevrolet-logo/Chevrolet-Logo-286513.jpg</string>
+
+    <string name="chevrolet_camaro">56|8|Camaro (ZL1)|url|1967-presente</string>
+    <string name="chevrolet_corvette">57|8|Corvette (C3 Stingray)|url|1968–1982</string>
+    <string name="chevrolet_chevelle_ss">58|8|Chevelle SS|url|1964–1973</string>
+    <string name="chevrolet_impala_ss">59|8|Impala SS|url|1961–1969</string>
+    <string name="chevrolet_el_camino">60|8|El Camino|url|1959–1987</string>
+
+    <string name="muscle_dodge">9|3|Dodge|https://logos-world.net/wp-content/uploads/2021/03/Dodge-Symbol.png</string>
+
+    <string name="dodge_charger">61|9|Charger R/T|url|1966-presente</string>
+    <string name="dodge_challenger_hellcat">62|9|Challenger Hellcat|url|2015-presente</string>
+    <string name="dodge_viper_gts">63|9|Viper GTS|url|1996–2002</string>
+    <string name="dodge_dart_swinger">64|9|Dart Swinger|url|1969–1976</string>
+    <string name="dodge_daytona">65|9|Daytona|url|1969–1970</string>
+
+    <string name="muscle_pontiac">10|3|Pontiac|https://1000logos.net/wp-content/uploads/2020/04/Pontiac-Logo-2002.png</string>
+
+    <string name="pontiac_firebird_trans_am">66|10|Firebird Trans Am|url|1969–2002</string>
+    <string name="pontiac_gto_judge">67|10|GTO (The Judge)|url|1969–1971</string>
+    <string name="pontiac_grand_prix_sj">68|10|Grand Prix SJ|url|1973–1977</string>
+    <string name="pontiac_bonneville">69|10|Bonneville|url|1957–2005</string>
+    <string name="pontiac_solstice_gxp">70|10|Solstice GXP|url|2006–2009</string>
+
+    <string name="muscle_plymouth">11|3|Plymouth|https://cdn.worldvectorlogo.com/logos/plymouth-9.svg</string>
+
+    <string name="plymouth_barracuda">71|11|Barracuda (Hemi Cuda)|url|1964–1974</string>
+    <string name="plymouth_road_runner">72|11|Road Runner|url|1968–1980</string>
+    <string name="plymouth_fury">73|11|Fury (Christine)|url|1956–1978</string>
+    <string name="plymouth_duster">74|11|Duster|url|1970–1976</string>
+    <string name="plymouth_belvedere_gtx">75|11|Belvedere GTX|url|1967–1971</string>
+
+    <string name="muscle_buick">12|3|Buick|https://1000logos.net/wp-content/uploads/2020/04/Buick-Logo-2015.png</string>
+
+    <string name="buick_gnx">76|12|GNX|url|1987</string>
+    <string name="buick_riviera_boat_tail">77|12|Riviera (Boat–Tail)|url|1971–1973</string>
+    <string name="buick_regal_t_type">78|12|Regal T–Type|url|1983–1987</string>
+    <string name="buick_skylark_gsx">79|12|Skylark GSX|url|1970–1972</string>
+    <string name="buick_wildcat">80|12|Wildcat|url|1962–1970</string>
+
+
+    <string name="exotic_bugatti">19|4|Bugatti|https://upload.wikimedia.org/wikipedia/commons/a/a9/Bugatti_Logo.png</string>
+
+    <string name="bugatti_veyron">106|19|Veyron 16.4|url|2005–2015</string>
+    <string name="bugatti_chiron">107|19|Chiron|url|2016-presente</string>
+    <string name="bugatti_eb110">108|19|EB110|url|1991–1995</string>
+    <string name="bugatti_type_57">109|19|Type 57 Atlantic|url|1936–1938</string>
+    <string name="bugatti_bolide">110|19|Bolide|url|2021-presente</string>
+
+    <string name="exotic_mclaren">20|4|McLaren|https://logoeps.com/wp-content/uploads/2012/12/mclaren-logo-vector.png</string>
+
+    <string name="mclaren_f1">91|20|F1|url|1992–1998</string>
+    <string name="mclaren_p1">92|20|P1|url|2013–2015</string>
+    <string name="mclaren_mp4_12c">93|20|MP4–12C|url|2011–2014</string>
+    <string name="mclaren_720s">94|20|720S|url|2017-presente</string>
+    <string name="mclaren_senna">95|20|Senna|url|2018-presente</string>
+
+    <string name="exotic_lamborghini">21|4|Lamborghini|https://img.remediosdigitales.com/ea3a4d/10974309_1087071384651814_2377105394985826515_o/1366_2000.jpg</string>
+
+    <string name="lamborghini_countach">86|21|Countach|url|1974–1990</string>
+    <string name="lamborghini_diablo_sv">87|21|Diablo SV|url|1990–2001</string>
+    <string name="lamborghini_murcielago">88|21|Murciélago|url|2001–2010</string>
+    <string name="lamborghini_aventador">89|21|Aventador|url|2011-presente</string>
+    <string name="lamborghini_miura">90|21|Miura|url|1966–1973</string>
+
+    <string name="exotic_koenigsegg">22|4|Koenigsegg|https://i.pinimg.com/736x/b5/e0/1f/b5e01ff8c0f55bed179312a688ded80c.jpg</string>
+
+
+    <string name="koenigsegg_ccx">111|22|CCX|url|2006–2010</string>
+    <string name="koenigsegg_agera">112|22|Agera RS|url|2015–2018</string>
+    <string name="koenigsegg_regera">113|22|Regera|url|2016-presente</string>
+    <string name="koenigsegg_gemera">114|22|Gemera|url|2020-presente</string>
+    <string name="koenigsegg_jesko">115|22|Jesko|url|2021-presente</string>
+
+    <string name="exotic_pagani">23|4|Pagani|https://m.media-amazon.com/images/I/416zCPTV-NL.jpg</string>
+
+    <string name="pagani_zonda_cinque">116|23|Zonda Cinque|url|2009–2011</string>
+    <string name="pagani_huayra">117|23|Huayra|url|2012-presente</string>
+    <string name="pagani_zonda_r">118|23|Zonda R|url|2007–2011</string>
+    <string name="pagani_zonda_f">119|23|Zonda F|url|2005–2009</string>
+    <string name="pagani_huayra_bc">120|23|Huayra Roadster BC|url|2019-presente</string>
+
+    <string name="exotic_ferrari">24|4|Ferrari|https://thumbs.dreamstime.com/b/logotipo-vectorial-de-la-marca-ferrari-logo-coches-caballo-y-velocidad-conducir-183281416.jpg</string>
+
+    <string name="ferrari_f40">81|24|F40|url|1987–1992</string>
+    <string name="ferrari_458_italia">82|24|458 Italia|url|2009–2015</string>
+    <string name="ferrari_enzo">83|24|Enzo|url|2002–2004</string>
+    <string name="ferrari_testarossa">84|24|Testarossa|url|1984–1996</string>
+    <string name="ferrari_laferrari">85|24|LaFerrari|url|2013–2016</string>
+
 </resources>

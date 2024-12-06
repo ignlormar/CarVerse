@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity(), OnClickListener {
         categoriasAdapter = CategoriasAdapter(getCategorias(), this)
         linearLayoutManager = LinearLayoutManager(this)
 
-        mBinding.rcv.apply {
+        mBinding.rcvMain.apply {
             layoutManager = linearLayoutManager
             adapter = categoriasAdapter
         }
@@ -45,22 +45,32 @@ class MainActivity : AppCompatActivity(), OnClickListener {
 
     private fun getCategorias(): MutableList<Categorias>{
         val categorias = mutableListOf<Categorias>()
-        val categoriaJDM = Categorias(1,
-            "JDM (Japanese Domestic Market)",
-            "https://i.ebayimg.com/images/g/EUkAAOSwi0xZ6PNj/s-l1200.jpg")
+        val context = this
+        val recursosCategorias = listOf(context.getString(R.string.categoria_jdm),
+            context.getString(R.string.categoria_euro),
+            context.getString(R.string.categoria_muscle),
+            context.getString(R.string.categoria_exotic))
 
-        categorias.add(categoriaJDM)
+        for (categoria in recursosCategorias){
+            val categoriaData = categoria.split("|")
+            val categoriaFinal = Categorias(categoriaData[0].toLong(), categoriaData[1], categoriaData[2])
+            categorias.add(categoriaFinal)
+        }
 
         return categorias
     }
 
     override fun onClick(categoria: Categorias) {
-        val url = "${categoria.imagen}"
-        val intent = Intent(Intent.ACTION_VIEW)
-        intent.data = Uri.parse(url)
-        startActivity(intent)
+        navigateToBrands(categoria.id)
     }
 
     override fun onLongClick(categoria: Categorias) {
         Toast.makeText(this, "${categoria.nombre}", Toast.LENGTH_SHORT).show()    }
+
+    private fun navigateToBrands(categoriaId: Long) {
+        val intent = Intent(this, BrandsActivity::class.java).apply {
+            putExtra("categoriaId", categoriaId)
+        }
+        startActivity(intent)
+    }
 }

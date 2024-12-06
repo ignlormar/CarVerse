@@ -1,4 +1,4 @@
-package com.ignacio.carverse.mainModule.adapter
+package com.ignacio.carverse.brandModule.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -8,23 +8,23 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.ignacio.carverse.R
-import com.ignacio.carverse.classes.Categorias
+import com.ignacio.carverse.classes.Marcas
 import com.ignacio.carverse.databinding.ItemMainBinding
 
-class CategoriasAdapter(private val categorias: List<Categorias>, private val listener: OnClickListener): RecyclerView.Adapter<CategoriasAdapter.ViewHolder>() {
+class MarcasAdapter(private val marcas: List<Marcas>, private val listener: OnClickListener): RecyclerView.Adapter<MarcasAdapter.ViewHolder>() {
 
     private lateinit var context: Context
 
     inner class ViewHolder(view: View): RecyclerView.ViewHolder(view){
         val binding = ItemMainBinding.bind(view)
 
-        fun setListener(categoria: Categorias){
+        fun setListener(marcas: Marcas){
             binding.root.setOnClickListener{
-                listener.onClick(categoria)
+                listener.onCLick(marcas)
             }
 
             binding.root.setOnLongClickListener{
-                listener.onLongClick(categoria)
+                listener.onLongClick(marcas)
                 true
             }
         }
@@ -37,21 +37,22 @@ class CategoriasAdapter(private val categorias: List<Categorias>, private val li
         return ViewHolder(view)
     }
 
-    override fun getItemCount(): Int = categorias.size
+    override fun getItemCount(): Int = marcas.size
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        val categoria = categorias[position]
+        val marca = marcas[position]
 
         with(holder){
-            setListener(categoria)
-            binding.tvTituloCard.text = categoria.nombre
+            setListener(marca)
+            binding.tvTituloCard.text = marca.nombre
             Glide.with(context)
-                .load(categoria.imagen)
+                .load(marca.imagen)
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
                 .centerCrop()
                 .into(binding.imgCard)
-
-
         }
     }
+
+
+
 }
