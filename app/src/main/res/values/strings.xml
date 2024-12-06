@@ -6,7 +6,6 @@
     <string name="login_password">Contraseña</string>
     <string name="helper_login_password">Escribe tu contraseña</string>
     <string name="login_button">Acceder</string>
-    <string name="sp_first_time">sp_first_time</string>
     <string name="pruebaTitular">Titular</string>
     <string name="pruebaPreview">Preview</string>
     <string name="image_description">Imagen de Portada</string>
@@ -15,10 +14,10 @@
     <string name="card_img_description">Fondo de la card</string>
     <string name="tv_ejemplo_card">Titulo de la card</string>
 
-    <string name="categoria_jdm">1|JDM|https://i.ebayimg.com/images/g/EUkAAOSwi0xZ6PNj/s-l1200.jpg</string>
-    <string name="categoria_euro">2|Euros|https://images.squarespace-cdn.com/content/v1/556917fce4b0599fc802928d/1526574641428-VM1SNCHS5H57MWHUHCZS/_DSC8680.jpg</string>
-    <string name="categoria_muscle">3|Muscle|https://www.dodge.com/content/dam/cross-regional/nafta/dodge/es_mx/Blog/2020/muscle-cars/que-es-un-muscle-car-y-cuales-son-sus-caracteristicas/desktop/dodge-noticias-que-es-un-muscle-car-y-cuales-son-sus-caracteristicas-cuerpo-1-dk.jpg.img.1440.jpg</string>
-    <string name="categoria_exotic">4|Exotic|https://www.celebrationcarshow.com/wp-content/uploads/2023/11/Trio-showcase-slide.jpg</string>
+    <string name="categoria_jdm">1|JDM|https://i.ebayimg.com/images/g/EUkAAOSwi0xZ6PNj/s-l1200.jpg|La cultura JDM se centra en los vehículos de alto rendimiento y diseño innovador provenientes de Japón. Marcas como Nissan, Toyota, Honda y Subaru son las protagonistas de esta escena, con modelos legendarios como el Nissan Skyline GT-R y el Toyota Supra. La comunidad JDM valora la personalización, la fiabilidad y la agilidad en la carretera, además de una estética minimalista pero impactante.</string>
+    <string name="categoria_euro">2|Euros|https://images.squarespace-cdn.com/content/v1/556917fce4b0599fc802928d/1526574641428-VM1SNCHS5H57MWHUHCZS/_DSC8680.jpg|La cultura Euro celebra la ingeniería de precisión y el lujo de los coches europeos. Marcas como BMW, Mercedes-Benz, Audi y Volkswagen han dado forma a esta tradición, combinando tecnología avanzada, rendimiento superior y un diseño elegante. Modelos icónicos como el BMW M3 o el Audi Quattro han dejado su huella en la historia, con los entusiastas de esta cultura apreciando la sofisticación y el refinamiento en cada detalle.</string>
+    <string name="categoria_muscle">3|Muscle|https://www.dodge.com/content/dam/cross-regional/nafta/dodge/es_mx/Blog/2020/muscle-cars/que-es-un-muscle-car-y-cuales-son-sus-caracteristicas/desktop/dodge-noticias-que-es-un-muscle-car-y-cuales-son-sus-caracteristicas-cuerpo-1-dk.jpg.img.1440.jpg|Los coches Muscle son símbolos de poder y velocidad, nacidos en Estados Unidos en las décadas de 1960 y 1970. Con motores V8 potentes y diseños agresivos, modelos como el Ford Mustang, Chevrolet Camaro y Dodge Charger son los pilares de esta cultura. La pasión por la velocidad y la música de los motores rugiendo en las rectas largas es lo que define a los seguidores del Muscle, quienes buscan sensaciones intensas al volante.</string>
+    <string name="categoria_exotic">4|Exotic|https://www.celebrationcarshow.com/wp-content/uploads/2023/11/Trio-showcase-slide.jpg|Los coches Exóticos representan el máximo lujo, exclusividad y rendimiento. Marcas como Ferrari, Lamborghini y McLaren han llevado el mundo del automóvil a nuevas alturas con modelos como el Ferrari F40 y el Lamborghini Aventador. Estos coches no solo son rápidos, sino que son verdaderas obras de arte sobre ruedas, diseñadas para atraer miradas y ofrecer una experiencia de conducción única en su clase.</string>
 
     <string name="jdm_nissan">1|1|Nissan|https://car-logos.net/wp-content/uploads/2023/03/nissan-logo-2020-present-1024x742.webp</string>
 
@@ -119,7 +118,6 @@
     <string name="renault_safrane_biturbo">105|18|Safrane Biturbo|url|1992–1996</string>
 
 
-
     <string name="muscle_ford">7|3|Ford|https://loodibee.com/wp-content/uploads/Ford-Logo.png</string>
 
     <string name="ford_mustang">51|7|Mustang (GT500)|url|1967-presente</string>
@@ -217,5 +215,6 @@
     <string name="ferrari_enzo">83|24|Enzo|url|2002–2004</string>
     <string name="ferrari_testarossa">84|24|Testarossa|url|1984–1996</string>
     <string name="ferrari_laferrari">85|24|LaFerrari|url|2013–2016</string>
+    <string name="tv_intro_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tristique dictum lorem, nec ornare justo pellentesque a. Quisque ultrices tempus est ac malesuada. Sed ultricies scelerisque purus eget suscipit. Pellentesque a venenatis velit. Donec imperdiet dolor non neque cursus, sit amet malesuada nibh lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.</string>
 
 </resources>

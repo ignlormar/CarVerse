@@ -13,4 +13,5 @@
     <dimen name="card_elevation_min">3dp</dimen>
     <dimen name="card_radius">7dp</dimen>
     <dimen name="mini_card_height">75dp</dimen>
+    <dimen name="default_padding">8dp</dimen>
 </resources>

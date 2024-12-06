@@ -42,6 +42,8 @@ class BrandsActivity : AppCompatActivity(), OnClickListener {
         marcasAdapter = MarcasAdapter(getMarcas(categoriaId), this)
         linearLayoutManager = LinearLayoutManager(this)
 
+        val introCategoria = getCategoriaDescripcion(categoriaId)
+
         bBinding.rcvBrands.apply {
             layoutManager = linearLayoutManager
             adapter = marcasAdapter
@@ -54,6 +56,8 @@ class BrandsActivity : AppCompatActivity(), OnClickListener {
             layoutManager = horizontalLayoutManager
             adapter = categoriasMiniAdapter
         }
+
+        bBinding.tvIntroCultura.text = introCategoria
     }
 
     private fun getMarcas(categoriaId: Long): MutableList<Marcas>{
@@ -97,6 +101,27 @@ class BrandsActivity : AppCompatActivity(), OnClickListener {
         return marcas
     }
 
+    private fun getCategoriaDescripcion(categoriaId: Long): String {
+        val context = this
+
+        val recursosCategorias = listOf(
+            context.getString(R.string.categoria_jdm),
+            context.getString(R.string.categoria_euro),
+            context.getString(R.string.categoria_muscle),
+            context.getString(R.string.categoria_exotic)
+        )
+
+        for (categoria in recursosCategorias) {
+            val categoriaData = categoria.split("|")
+            if (categoriaData[0].toLong() == categoriaId) {
+                return categoriaData[3]
+            }
+        }
+
+        return "Descripción no disponible"
+    }
+
+
     private fun getCategorias(currentCategoriaId: Long): MutableList<Categorias>{
         val categorias = mutableListOf<Categorias>()
         val context = this
@@ -108,7 +133,7 @@ class BrandsActivity : AppCompatActivity(), OnClickListener {
 
         for (categoria in recursosCategorias){
             val categoriaData = categoria.split("|")
-            val categoriaFinal = Categorias(categoriaData[0].toLong(), categoriaData[1], categoriaData[2])
+            val categoriaFinal = Categorias(categoriaData[0].toLong(), categoriaData[1], categoriaData[2], categoriaData[3])
 
             if (categoriaFinal.id != currentCategoriaId){
                 categorias.add(categoriaFinal)
@@ -125,14 +150,15 @@ class BrandsActivity : AppCompatActivity(), OnClickListener {
         Toast.makeText(this, "${marca.nombre}", Toast.LENGTH_SHORT).show()
     }
 
-    private fun navigateToCategoria(){
-        val intent = Intent(this, )
+    private fun navigateToCategoria(categoriaId: Long){
+        val intent = Intent(this, BrandsActivity::class.java).apply {
+            putExtra("categoriaId", categoriaId)
+        }
         startActivity(intent)
-        finish()
     }
 
     override fun onClick(categoria: Categorias) {
-
+        navigateToCategoria(categoria.id)
     }
 
     override fun onLongClick(categoria: Categorias) {
