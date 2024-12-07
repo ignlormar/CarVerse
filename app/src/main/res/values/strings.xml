@@ -19,202 +19,360 @@
     <string name="categoria_muscle">3|Muscle|https://www.dodge.com/content/dam/cross-regional/nafta/dodge/es_mx/Blog/2020/muscle-cars/que-es-un-muscle-car-y-cuales-son-sus-caracteristicas/desktop/dodge-noticias-que-es-un-muscle-car-y-cuales-son-sus-caracteristicas-cuerpo-1-dk.jpg.img.1440.jpg|Los coches Muscle son símbolos de poder y velocidad, nacidos en Estados Unidos en las décadas de 1960 y 1970. Con motores V8 potentes y diseños agresivos, modelos como el Ford Mustang, Chevrolet Camaro y Dodge Charger son los pilares de esta cultura. La pasión por la velocidad y la música de los motores rugiendo en las rectas largas es lo que define a los seguidores del Muscle, quienes buscan sensaciones intensas al volante.</string>
     <string name="categoria_exotic">4|Exotic|https://www.celebrationcarshow.com/wp-content/uploads/2023/11/Trio-showcase-slide.jpg|Los coches Exóticos representan el máximo lujo, exclusividad y rendimiento. Marcas como Ferrari, Lamborghini y McLaren han llevado el mundo del automóvil a nuevas alturas con modelos como el Ferrari F40 y el Lamborghini Aventador. Estos coches no solo son rápidos, sino que son verdaderas obras de arte sobre ruedas, diseñadas para atraer miradas y ofrecer una experiencia de conducción única en su clase.</string>
 
-    <string name="jdm_nissan">1|1|Nissan|https://car-logos.net/wp-content/uploads/2023/03/nissan-logo-2020-present-1024x742.webp</string>
+    <string name="jdm_nissan">1|1|Nissan|https://car-logos.net/wp-content/uploads/2023/03/nissan-logo-2020-present-1024x742.webp|Nissan es conocida por su innovación y rendimiento. Modelos como el Skyline GT-R y el 350Z destacan por su equilibrio entre potencia y estilo, conquistando tanto las calles como las pistas.</string>
 
-    <string name="nissan_skyline_r34">1|1|Skyline GT–R (R34)|url|1999–2002</string>
-    <string name="nissan_350z_370z">2|1|350Z / 370Z (Fairlady Z)|url|2002-presente</string>
-    <string name="nissan_silvia">3|1|Silvia (S13/S14/S15)|url|1988–2002</string>
-    <string name="nissan_240sx">4|1|240SX|url|1989–1998</string>
-    <string name="nissan_gtr_r35">5|1|GT-R (R35)|url|2007-presente</string>
+    <string name="nissan_skyline_r34">1|1|Skyline GT–R (R34)|https://cdn.topgear.es/sites/navi.axelspringer.es/public/media/image/2023/05/nissan-skyline-gt-r-r34-fast-furious-3029216.jpg?tf=3840x|1999–2002</string>
+    <string name="nissan_350z_370z">2|1|350Z|https://korncars.com/wp-content/uploads/2016/03/nissan-350-z-korncars-i.jpg?w=1140&amp;h=643&amp;crop=1|2002-presente</string>
+    <string name="nissan_silvia">3|1|Silvia (S14)|https://cdn.dealeraccelerate.com/international/1/719/32617/1920x1440/1997-nissan-silvia|1988–2002</string>
+    <string name="nissan_240sx">4|1|240SX|https://www.motorcarclassics.com/galleria_images/684/684_main_l.jpg|1989–1998</string>
+    <string name="nissan_gtr_r35">5|1|GT-R (R35)|https://media.istockphoto.com/id/1474627763/es/foto/nissan-gtr.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=4RxYcoePNaoNBk1kkNvyxMAWhbGwEsJJUBO0d59_RqA=|2007-presente</string>
 
-    <string name="jdm_toyota">2|1|Toyota|https://media.toyota.com.ar/7d0bdc4d-fe3a-41b7-b75a-132af918f1fb.png</string>
-
-    <string name="toyota_supra_a80">6|2|Supra (MK4 A80)|url|1993–2002</string>
-    <string name="toyota_ae86">7|2|AE86 (Corolla Trueno/Levin)|url|1983–1987</string>
-    <string name="toyota_celica_gt4">8|2|Celica GT–Four|url|1986–1999</string>
-    <string name="toyota_mr2">9|2|MR2|url|1984–2007</string>
-    <string name="toyota_chaser">10|2|Chaser (JZX100)|url|1996–2001</string>
+    <string name="jdm_toyota">2|1|Toyota|https://media.toyota.com.ar/7d0bdc4d-fe3a-41b7-b75a-132af918f1fb.png|Toyota combina fiabilidad con rendimiento icónico. Desde el legendario Supra hasta los resistentes Land Cruiser, esta marca define versatilidad y emoción.</string>
 
 
-    <string name="jdm_honda">3|1|Honda|https://loodibee.com/wp-content/uploads/Honda-Logo.png</string>
-
-    <string name="honda_civic_type_r">11|3|Civic Type R (EK9/EP3/FD2/FK8)|url|1997-presente</string>
-    <string name="honda_nsx">12|3|NSX (NA1)|url|1990–2005</string>
-    <string name="honda_integra_type_r">13|3|Integra Type R (DC2)|url|1995–2001</string>
-    <string name="honda_s2000">14|3|S2000|url|1999–2009</string>
-    <string name="honda_crx">15|3|CR–X|url|1983–1991</string>
-
-    <string name="jdm_mazda">4|1|Mazda|https://upload.wikimedia.org/wikipedia/nah/b/b1/Mazda_logo.png</string>
-
-    <string name="mazda_rx7">16|4|RX–7 (FD3S)|url|1992–2002</string>
-    <string name="mazda_mx5">17|4|MX-5 Miata (NA/NB)|url|1989-presente</string>
-    <string name="mazda_rx8">18|4|RX–8|url|2003–2012</string>
-    <string name="mazda_m3_mps">19|4|Mazda3 MPS|url|2007–2013</string>
-    <string name="mazda_cosmo">20|4|Cosmo|url|1967–1996</string>
+    <string name="toyota_supra_a80">6|2|Supra (MK4 A80)|https://i.ytimg.com/vi/ydTumL8g_rY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&amp;rs=AOn4CLBsBUsWe7rEJR_md3yBZ2Eu1UA7rw|1993–2002</string>
+    <string name="toyota_ae86">7|2|AE86 (Corolla Trueno)|https://www.targasport.com.ar/wp-content/uploads/TargaSport-Toyota-AE86-Trueno-2.jpg|1983–1987</string>
+    <string name="toyota_celica_gt4">8|2|Celica GT–Four|https://media.fastestlaps.com/toyota-celica-gt-four-st185-rc.jpg|1986–1999</string>
+    <string name="toyota_mr2">9|2|MR2|https://espirituracer.com/archivos/2018/12/Toyota-MR2-W20.jpg|1984–2007</string>
+    <string name="toyota_chaser">10|2|Chaser (JZX100)|https://preview.redd.it/ta4f1vtja7371.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5a8b485fd61f52cfc63d0bfcbf113b01607a18e|1996–2001</string>
 
 
-    <string name="jdm_subaru">5|1|Subaru|https://pngimg.com/d/subaru_PNG11965.png</string>
+    <string name="jdm_honda">3|1|Honda|https://loodibee.com/wp-content/uploads/Honda-Logo.png|Honda es sinónimo de precisión japonesa. Modelos como el Civic Type R y el NSX representan un balance perfecto entre agilidad y potencia.</string>
 
-    <string name="subaru_impreza_wrx_sti">21|5|Impreza WRX STI (GC8/GDB)|url|1992-presente</string>
-    <string name="subaru_legacy_gt_b">22|5|Legacy GT–B|url|1996–2003</string>
-    <string name="subaru_brz">23|5|BRZ|url|2012-presente</string>
-    <string name="subaru_forester_xt">24|5|Forester XT|url|1997-presente</string>
-    <string name="subaru_svx">25|5|SVX|url|1991–1996</string>
+    <string name="honda_civic_type_r">11|3|Civic Type R (EK9)|https://lapmeta.com/storage/vi-images/n85F2tWFE8.jpeg|1997-presente</string>
+    <string name="honda_nsx">12|3|NSX (NA1)|https://www.super-hobby.es/zdjecia/5/4/9/3391_rd.jpg|1990–2005</string>
+    <string name="honda_integra_type_r">13|3|Integra Type R (DC2)|https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2022/08/honda-acura-integra-type-r-2782041.jpg?tf=3840x|1995–2001</string>
+    <string name="honda_s2000">14|3|S2000|https://cdn.motor1.com/images/mgl/mMPMyr/s3/honda-s2000r-by-evasive-motorsports.jpg|1999–2009</string>
+    <string name="honda_crx">15|3|CR–X del Sol|https://clasicosyusados.weebly.com/uploads/2/7/0/6/27065335/3036175_orig.jpg|1983–1991</string>
 
-    <string name="jdm_mitsubishi">6|1|Mitsubishi|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/1200px-Mitsubishi_logo.svg.png</string>
+    <string name="jdm_mazda">4|1|Mazda|https://upload.wikimedia.org/wikipedia/nah/b/b1/Mazda_logo.png|Mazda incorpora diseño y tecnología únicos, como el motor rotativo del RX-7. La filosofía "Jinba Ittai" refleja la unión perfecta entre coche y conductor.</string>
 
-    <string name="mitsubishi_lancer_evo">26|6|Lancer Evolution (Evo VI/VIII/IX)|url|1992–2015</string>
-    <string name="mitsubishi_3000gt">27|6|3000GT (GTO)|url|1990–2001</string>
-    <string name="mitsubishi_eclipse">28|6|Eclipse (2G)|url|1995–1999</string>
-    <string name="mitsubishi_starion">29|6|Starion|url|1982–1989</string>
-    <string name="mitsubishi_galant_vr4">30|6|Galant VR–4|url|1988–2002</string>
-
-    <string name="euro_volkswagen">13|2|Volkswagen|https://uploads.vw-mms.de/system/production/images/vwn/030/144/images/6fa5f9117e680d48f54013112746a318e982207d/DB2019AL01949_web_1600.jpg?1649155356</string>
-
-    <string name="volkswagen_golf_gti">46|13|Golf GTI (MK1/MK2)|url|1976-presente</string>
-    <string name="volkswagen_beetle">47|13|Beetle (Type 1)|url|1938–2003</string>
-    <string name="volkswagen_scirocco">48|13|Scirocco|url|1974–1992</string>
-    <string name="volkswagen_passat_w8">49|13|Passat W8|url|2001–2004</string>
-    <string name="volkswagen_corrado_vr6">50|13|Corrado VR6|url|1991–1995</string>
-
-    <string name="euro_audi">14|2|Audi|https://e7.pngegg.com/pngimages/905/811/png-clipart-audi-logo-audi-logo-transport-cars.png</string>
-
-    <string name="audi_quattro">41|14|Quattro (Ur–Quattro)|url|1980–1991</string>
-    <string name="audi_rs2_avant">42|14|RS2 Avant|url|1994–1995</string>
-    <string name="audi_r8">43|14|R8|url|2006-presente</string>
-    <string name="audi_tt_mk1">44|14|TT (MK1)|url|1998–2006</string>
-    <string name="audi_a4_dtm">45|14|A4 DTM Edition|url|2005–2007</string>
-
-    <string name="euro_mercedes">15|2|Mercedes Benz|https://futbolete.com/apuestas/wp-content/uploads/2021/02/Mercedes-Benz-Logo.png</string>
-
-    <string name="mercedes_190e_evo2">36|15|190E 2.5–16 Evolution II|url|1990–1992</string>
-    <string name="mercedes_amg_gt">37|15|AMG GT|url|2015-presente</string>
-    <string name="mercedes_s_class_w140">38|15|S–Class (W140)|url|1991–1998</string>
-    <string name="mercedes_sl500_r129">39|15|SL500 (R129)|url|1989–2001</string>
-    <string name="mercedes_g_class">40|15|G-Class (G-Wagen)|url|1979-presente</string>
-
-    <string name="euro_bmw">16|2|BMW|https://e7.pngegg.com/pngimages/965/441/png-clipart-bmw-car-mercedes-benz-honda-logo-volkswagen-bmw-emblem-logo.png</string>
-
-    <string name="bmw_m3_e30">31|16|M3 (E30)|url|1986–1991</string>
-    <string name="bmw_m5_e39">32|16|M5 (E39)|url|1998–2003</string>
-    <string name="bmw_2002_turbo">33|16|2002 Turbo|url|1973–1974</string>
-    <string name="bmw_z3_m_coupe">34|16|Z3 M Coupe|url|1998–2002</string>
-    <string name="bmw_8_series_e31">35|16|8 Series (E31)|url|1990–1999</string>
-
-    <string name="euro_peugeot">17|2|Peugeot|https://www.marco.es/wp-content/uploads/2021/02/nuevo-logo-peugeot_blanco-1024x818.jpg</string>
-
-    <string name="peugeot_205_gti">96|17|205 GTI|url|1984–1994</string>
-    <string name="peugeot_206_wrc">97|17|206 WRC|url|1999–2003</string>
-    <string name="peugeot_405_mi16">98|17|405 Mi16|url|1987–1997</string>
-    <string name="peugeot_306_gti_6">99|17|306 GTI–6|url|1996–2001</string>
-    <string name="peugeot_508_pse">100|17|508 PSE|url|2019-presente</string>
-
-    <string name="euro_renault">18|2|Renault|https://1000logos.net/wp-content/uploads/2021/03/Renault-logo.png</string>
-
-    <string name="renault_clio_v6">101|18|Clio V6|url|2001–2005</string>
-    <string name="renault_megane_rs">102|18|Megane RS|url|2004-presente</string>
-    <string name="renault_alpine_a110">103|18|Alpine A110|url|1961–1977</string>
-    <string name="renault_5_turbo">104|18|R5 Turbo|url|1980–1986</string>
-    <string name="renault_safrane_biturbo">105|18|Safrane Biturbo|url|1992–1996</string>
+    <string name="mazda_rx7">16|4|RX–7 (FD3S)|https://mividallenadecoches.wordpress.com/wp-content/uploads/2024/06/mazda-rx-7-type-r-bathurst-r-2616033.webp?w=1038&amp;h=576&amp;crop=1|1992–2002</string>
+    <string name="mazda_mx5">17|4|MX-5 Miata (NA)|https://www.diariomotor.com/imagenes/2020/09/mazda-mx-5-na-01-portada.jpg|1989-presente</string>
+    <string name="mazda_rx8">18|4|RX–8|https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2018/07/mazda-rx-8_5.jpg?tf=3840x|2003–2012</string>
+    <string name="mazda_m3_mps">19|4|Mazda3 MPS|https://a.ccdn.es/cnet/contents/media/mazda/mazda3/127299.jpg/900x505cut/|2007–2013</string>
+    <string name="mazda_cosmo">20|4|Cosmo|https://cdn.motor1.com/images/mgl/P3WeL4/s1/mazda-cosmo-sport-serie-ii-1968---dinamica.webp|1967–1996</string>
 
 
-    <string name="muscle_ford">7|3|Ford|https://loodibee.com/wp-content/uploads/Ford-Logo.png</string>
+    <string name="jdm_subaru">5|1|Subaru|https://pngimg.com/d/subaru_PNG11965.png|Subaru domina los terrenos difíciles con tracción integral AWD y modelos como el Impreza WRX STI, emblemáticos en rally y carretera.</string>
 
-    <string name="ford_mustang">51|7|Mustang (GT500)|url|1967-presente</string>
-    <string name="ford_gt40">52|7|GT40|url|1964–1969</string>
-    <string name="ford_thunderbird">53|7|Thunderbird|url|1955–2005</string>
-    <string name="ford_cobra">54|7|Cobra (AC/Shelby)|url|1962–1967</string>
-    <string name="ford_falcon_xb">55|7|Falcon XB|url|1973–1976</string>
+    <string name="subaru_impreza_wrx_sti">21|5|Impreza WRX STI (GC8)|https://hips.hearstapps.com/hmg-prod/images/subaru-wrx-sti-type-r-subasta-1640893491.jpg|1992-presente</string>
+    <string name="subaru_legacy_gt_b">22|5|Legacy GT–B|https://i.ytimg.com/vi/HlK2k5mRO2g/maxresdefault.jpg|1996–2003</string>
+    <string name="subaru_brz">23|5|BRZ|https://e.allegroimg.com/s512/03ef01/233e115e4356adb750c88dd9d8de/Silnik-Subaru-BRZ-Toyota-GT86-po-naprawie|2012-presente</string>
+    <string name="subaru_forester_xt">24|5|Forester XT|https://images.squarespace-cdn.com/content/v1/5aac1f6a5cfd796d520a4a7a/1711652734008-KTNEOYZ9G695W2AHN8C2/IMG_4898.jpg?format=1000w|1997-presente</string>
+    <string name="subaru_svx">25|5|SVX|https://preview.redd.it/1l4ywtjpkyk91.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=9d759231b7d250dfef579bedbceb0a986e8fd9ab|1991–1996</string>
 
-    <string name="muscle_chevrolet">8|3|Chevrolet|https://media.gm.com/dld/content/dam/Media/images/INTL/chevrolet/logos/chevrolet-logo/Chevrolet-Logo-286513.jpg</string>
+    <string name="jdm_mitsubishi">6|1|Mitsubishi|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mitsubishi_logo.svg/1200px-Mitsubishi_logo.svg.png|Mitsubishi, con el icónico Lancer Evolution, se ha establecido como líder en el mundo del rally y vehículos de alto rendimiento.</string>
 
-    <string name="chevrolet_camaro">56|8|Camaro (ZL1)|url|1967-presente</string>
-    <string name="chevrolet_corvette">57|8|Corvette (C3 Stingray)|url|1968–1982</string>
-    <string name="chevrolet_chevelle_ss">58|8|Chevelle SS|url|1964–1973</string>
-    <string name="chevrolet_impala_ss">59|8|Impala SS|url|1961–1969</string>
-    <string name="chevrolet_el_camino">60|8|El Camino|url|1959–1987</string>
+    <string name="mitsubishi_lancer_evo">26|6|Lancer Evolution (Evo IX)|https://www.lapmeta.com/storage/vi-images/a0XGdgIvG5.jpeg|1992–2015</string>
+    <string name="mitsubishi_3000gt">27|6|3000GT (GTO)|https://www.topgear.com/sites/default/files/2023/12/1999_Mitsubishi_3000GT.jpg|1990–2001</string>
+    <string name="mitsubishi_eclipse">28|6|Eclipse (2G)|https://avcdn.av.by/cargeneration/0001/1464/9845.jpg|1995–1999</string>
+    <string name="mitsubishi_starion">29|6|Starion|https://www.motortrend.com/files/6671c96e952e1c0008a712fe/005-1987-mitsubishi-starion-silver-front-three-quarter.jpg?w=768&amp;width=768&amp;q=75&amp;format=webp|1982–1989</string>
+    <string name="mitsubishi_galant_vr4">30|6|Galant VR–4|https://jdmsupply.com/storage/images/vehicle/800/6kQ2TNQI3pJd5IJqorMj52xtXVOvnXIOYDYxatrL_1214x854.webp|1988–2002</string>
 
-    <string name="muscle_dodge">9|3|Dodge|https://logos-world.net/wp-content/uploads/2021/03/Dodge-Symbol.png</string>
+    <string name="euro_volkswagen">13|2|Volkswagen|https://uploads.vw-mms.de/system/production/images/vwn/030/144/images/6fa5f9117e680d48f54013112746a318e982207d/DB2019AL01949_web_1600.jpg?1649155356|Volkswagen es líder en diseño compacto y eficiente. Con el Golf GTI como bandera, combina versatilidad y deportividad.</string>
 
-    <string name="dodge_charger">61|9|Charger R/T|url|1966-presente</string>
-    <string name="dodge_challenger_hellcat">62|9|Challenger Hellcat|url|2015-presente</string>
-    <string name="dodge_viper_gts">63|9|Viper GTS|url|1996–2002</string>
-    <string name="dodge_dart_swinger">64|9|Dart Swinger|url|1969–1976</string>
-    <string name="dodge_daytona">65|9|Daytona|url|1969–1970</string>
+    <string name="volkswagen_golf_gti">46|13|Golf GTI (MK2)|https://www.norclassics.com/wp-content/uploads/2022/03/MG_3628.jpg|1976-presente</string>
+    <string name="volkswagen_beetle">47|13|Beetle (Type 1)|https://live.staticflickr.com/936/41744902730_483135183e_b.jpg|1938–2003</string>
+    <string name="volkswagen_scirocco">48|13|Scirocco|https://www.automoli.com/common/vehicles/_assets/img/gallery/f85/volkswagen-scirocco-53b.jpg|1974–1992</string>
+    <string name="volkswagen_phaeton">49|13|Phaeton|https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2017/07/volkswagen-phaeton.jpg?tf=3840x|2001–2004</string>
+    <string name="volkswagen_corrado_vr6">50|13|Corrado VR6|https://espirituracer.com/archivos/2018/09/Volkswagen-Corrado-VR6-1.jpg|1991–1995</string>
 
-    <string name="muscle_pontiac">10|3|Pontiac|https://1000logos.net/wp-content/uploads/2020/04/Pontiac-Logo-2002.png</string>
+    <string name="euro_audi">14|2|Audi|https://e7.pngegg.com/pngimages/905/811/png-clipart-audi-logo-audi-logo-transport-cars.png|Audi, con su sistema Quattro y vehículos como el RS6 Avant, fusiona tecnología, diseño y dinamismo.</string>
 
-    <string name="pontiac_firebird_trans_am">66|10|Firebird Trans Am|url|1969–2002</string>
-    <string name="pontiac_gto_judge">67|10|GTO (The Judge)|url|1969–1971</string>
-    <string name="pontiac_grand_prix_sj">68|10|Grand Prix SJ|url|1973–1977</string>
-    <string name="pontiac_bonneville">69|10|Bonneville|url|1957–2005</string>
-    <string name="pontiac_solstice_gxp">70|10|Solstice GXP|url|2006–2009</string>
+    <string name="audi_quattro">41|14|Quattro (Ur–Quattro)|https://cdn.topgear.es/sites/navi.axelspringer.es/public/media/image/2017/06/audi-quattro-2.jpg?tf=3840x|1980–1991</string>
+    <string name="audi_rs2_avant">42|14|RS2 Avant|https://cdn.motor1.com/images/mgl/weoGL/s3/audi-rs2-avant-1994.jpg|1994–1995</string>
+    <string name="audi_r8">43|14|R8|https://cdn.motor1.com/images/mgl/W89egj/s1/2023-audi-r8-v10-gt-rwd-exterior.webp|2006-presente</string>
+    <string name="audi_tt_mk1">44|14|TT (MK1)|https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2022/07/audi-tt-primera-generacion-2756617.jpg?tf=3840x|1998–2006</string>
+    <string name="audi_a4_dtm">45|14|A4 DTM Edition|https://www.retromotor.co.uk/wp-content/uploads/2022/03/001-Press-Fleet-Audi-A4-DTM.jpg|2005–2007</string>
 
-    <string name="muscle_plymouth">11|3|Plymouth|https://cdn.worldvectorlogo.com/logos/plymouth-9.svg</string>
+    <string name="euro_mercedes">15|2|Mercedes Benz|https://futbolete.com/apuestas/wp-content/uploads/2021/02/Mercedes-Benz-Logo.png|Mercedes-Benz redefine el lujo y el rendimiento con su línea AMG. Modelos como el AMG GT ofrecen potencia con elegancia.</string>
 
-    <string name="plymouth_barracuda">71|11|Barracuda (Hemi Cuda)|url|1964–1974</string>
-    <string name="plymouth_road_runner">72|11|Road Runner|url|1968–1980</string>
-    <string name="plymouth_fury">73|11|Fury (Christine)|url|1956–1978</string>
-    <string name="plymouth_duster">74|11|Duster|url|1970–1976</string>
-    <string name="plymouth_belvedere_gtx">75|11|Belvedere GTX|url|1967–1971</string>
+    <string name="mercedes_190e_evo2">36|15|190E 2.5–16 Evolution II|https://hips.hearstapps.com/hmg-prod/images/mercedes-benz-190-e-2-5-16-evolution-ii-01-65535f6fa7f95.png?crop=1.00xw:0.969xh;0,0.0314xh&amp;resize=1200:*|1990–1992</string>
+    <string name="mercedes_amg_gt">37|15|AMG GT|https://www.topgear.com/sites/default/files/2024/05/1-AMG-GT-UK-review-2024.jpg|2015-presente</string>
+    <string name="mercedes_s_class_w140">38|15|S–Class (W140)|https://www.todosobreautos.com/content/images/size/w1200/2024/06/9-1664631028_11zon-1.webp|1991–1998</string>
+    <string name="mercedes_sl500_r129">39|15|SL500 (R129)|https://netrinoimages.s3.eu-west-2.amazonaws.com/2005/05/06/1656/39643/mercedesbenz_sl500_amg_r129_19892001_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_4900799.jpg|1989–2001</string>
+    <string name="mercedes_g_class">40|15|CLS 63 AMG|https://i.ebayimg.com/images/g/FE8AAOSwaxBl5aMW/s-l400.jpg|1979-presente</string>
 
-    <string name="muscle_buick">12|3|Buick|https://1000logos.net/wp-content/uploads/2020/04/Buick-Logo-2015.png</string>
+    <string name="euro_bmw">16|2|BMW|https://e7.pngegg.com/pngimages/965/441/png-clipart-bmw-car-mercedes-benz-honda-logo-volkswagen-bmw-emblem-logo.png|BMW es sinónimo de deportividad europea. Su lema "The Ultimate Driving Machine" cobra vida en coches como el M3 y el M5.</string>
 
-    <string name="buick_gnx">76|12|GNX|url|1987</string>
-    <string name="buick_riviera_boat_tail">77|12|Riviera (Boat–Tail)|url|1971–1973</string>
-    <string name="buick_regal_t_type">78|12|Regal T–Type|url|1983–1987</string>
-    <string name="buick_skylark_gsx">79|12|Skylark GSX|url|1970–1972</string>
-    <string name="buick_wildcat">80|12|Wildcat|url|1962–1970</string>
+    <string name="bmw_m3_e30">31|16|M3 (E30)|https://hips.hearstapps.com/hmg-prod/images/365169894-614946964114034-6061787863742549576-n-64d1218dd7c5d.jpeg|1986–1991</string>
+    <string name="bmw_m5_e39">32|16|M5 (E39)|https://preview.redd.it/apf0ysqb07gc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4e589dcfa58fdf88f2b52e2420720b76181c6ee|1998–2003</string>
+    <string name="bmw_2002_turbo">33|16|2002 Turbo|https://cdn.motor1.com/images/mgl/L37BbM/s1/bmw-2002-turbo-1973-74.webp|1973–1974</string>
+    <string name="bmw_z3_m_coupe">34|16|Z3 M Coupe|https://cdn.motor1.com/images/mgl/PEe6G/s1/1998-bmw-m-coupe-for-sale-exterior.jpg|1998–2002</string>
+    <string name="bmw_8_series_e31">35|16|8 Series (E31)|https://www.stratstone.com/-/media/stratstone/spotlight/bmw-8-series-e31-coupe/2022/e31-8-series-1920x774px.ashx|1990–1999</string>
 
+    <string name="euro_peugeot">17|2|Peugeot|https://www.marco.es/wp-content/uploads/2021/02/nuevo-logo-peugeot_blanco-1024x818.jpg|Peugeot destaca por su diseño audaz y eficiencia. Modelos como el 308 GTi ofrecen un equilibrio entre agilidad y potencia.</string>
 
-    <string name="exotic_bugatti">19|4|Bugatti|https://upload.wikimedia.org/wikipedia/commons/a/a9/Bugatti_Logo.png</string>
+    <string name="peugeot_205_gti">96|17|205 GTI|https://noticias.coches.com/wp-content/uploads/2022/11/Peugeot-205-GTI-Tolman-Edition-11.jpeg|1984–1994</string>
+    <string name="peugeot_206_wrc">97|17|206 WRC|https://autohebdosport.com/media/xt-adaptive-images/480/images/galerias/coches/noticias/peugeot-206-wrc-c04/4-peugeot-206-wrc-c04.webp|1999–2003</string>
+    <string name="peugeot_405_mi16">98|17|405 Mi16|https://espirituracer.com/archivos/2018/07/Peugeot-405-Mi16-1.jpg|1987–1997</string>
+    <string name="peugeot_306_gti_6">99|17|306 GTI–6|https://goauctionmpc.blob.core.windows.net/stock/1750-11-medium.jpg?v=63832435952223|1996–2001</string>
+    <string name="peugeot_508_pse">100|17|508 PSE|https://www.km77.com/images/medium/4/8/0/3/peugeot-508-pse-2021-frontal-lateral.354803.jpg|2019-presente</string>
 
-    <string name="bugatti_veyron">106|19|Veyron 16.4|url|2005–2015</string>
-    <string name="bugatti_chiron">107|19|Chiron|url|2016-presente</string>
-    <string name="bugatti_eb110">108|19|EB110|url|1991–1995</string>
-    <string name="bugatti_type_57">109|19|Type 57 Atlantic|url|1936–1938</string>
-    <string name="bugatti_bolide">110|19|Bolide|url|2021-presente</string>
+    <string name="euro_renault">18|2|Renault|https://1000logos.net/wp-content/uploads/2021/03/Renault-logo.png|Renault, con su línea Sport, combina ingeniería innovadora con rendimiento dinámico en modelos como el Clio RS.</string>
 
-    <string name="exotic_mclaren">20|4|McLaren|https://logoeps.com/wp-content/uploads/2012/12/mclaren-logo-vector.png</string>
-
-    <string name="mclaren_f1">91|20|F1|url|1992–1998</string>
-    <string name="mclaren_p1">92|20|P1|url|2013–2015</string>
-    <string name="mclaren_mp4_12c">93|20|MP4–12C|url|2011–2014</string>
-    <string name="mclaren_720s">94|20|720S|url|2017-presente</string>
-    <string name="mclaren_senna">95|20|Senna|url|2018-presente</string>
-
-    <string name="exotic_lamborghini">21|4|Lamborghini|https://img.remediosdigitales.com/ea3a4d/10974309_1087071384651814_2377105394985826515_o/1366_2000.jpg</string>
-
-    <string name="lamborghini_countach">86|21|Countach|url|1974–1990</string>
-    <string name="lamborghini_diablo_sv">87|21|Diablo SV|url|1990–2001</string>
-    <string name="lamborghini_murcielago">88|21|Murciélago|url|2001–2010</string>
-    <string name="lamborghini_aventador">89|21|Aventador|url|2011-presente</string>
-    <string name="lamborghini_miura">90|21|Miura|url|1966–1973</string>
-
-    <string name="exotic_koenigsegg">22|4|Koenigsegg|https://i.pinimg.com/736x/b5/e0/1f/b5e01ff8c0f55bed179312a688ded80c.jpg</string>
+    <string name="renault_clio_v6">101|18|Clio V6|https://cdn.soulauto.com/wp-content/uploads/2024/07/00_00_RenaultClioSport-01-0631.jpg?x73351|2001–2005</string>
+    <string name="renault_megane_rs">102|18|Megane RS|https://www.ocasionplus.com/wp-content/uploads/2024/05/Renault-Megane-RS-Ultimate.jpg|2004-presente</string>
+    <string name="renault_alpine_a110">103|18|Alpine A110|https://www.alpine-rrg.com/user/themes/custom/img/new-models/A110-Desktop/Design-icone_de_style.jpg|1961–1977</string>
+    <string name="renault_5_turbo">104|18|R5 Maxi Turbo|https://cdn.soulauto.com/wp-content/uploads/2022/04/00_01_IMG_5169.jpg?x73351|1980–1986</string>
+    <string name="renault_safrane_biturbo">105|18|Safrane Biturbo|https://espirituracer.com/archivos/2018/03/renault-safrane-bi-turbo.jpg|1992–1996</string>
 
 
-    <string name="koenigsegg_ccx">111|22|CCX|url|2006–2010</string>
-    <string name="koenigsegg_agera">112|22|Agera RS|url|2015–2018</string>
-    <string name="koenigsegg_regera">113|22|Regera|url|2016-presente</string>
-    <string name="koenigsegg_gemera">114|22|Gemera|url|2020-presente</string>
-    <string name="koenigsegg_jesko">115|22|Jesko|url|2021-presente</string>
+    <string name="muscle_ford">7|3|Ford|https://loodibee.com/wp-content/uploads/Ford-Logo.png|Ford ha definido la cultura Muscle con el Mustang, un símbolo de potencia americana. La innovación y el legado se combinan en esta marca histórica.</string>
 
-    <string name="exotic_pagani">23|4|Pagani|https://m.media-amazon.com/images/I/416zCPTV-NL.jpg</string>
+    <string name="ford_mustang">51|7|Mustang (GT500)|https://espirituracer.com/archivos/2019/11/shelby-mustang-gt500-eleanor-60-segundos-10.jpg|1967-presente</string>
+    <string name="ford_gt40">52|7|GT40|https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2014/02/294919-ford-gt40-steve-mcqueen-frontal.jpg?tf=1200x|1964–1969</string>
+    <string name="ford_thunderbird">53|7|Thunderbird|https://upload.wikimedia.org/wikipedia/commons/2/2a/1956_Ford_Thunderbird_Blue.jpg|1955–2005</string>
+    <string name="ford_cobra">54|7|Cobra (AC)|https://8000vueltas.com/wp-content/uploads/2013/09/cobra_0.jpg|1962–1967</string>
+    <string name="ford_falcon_xb">55|7|Falcon XB|https://i.pinimg.com/736x/51/07/64/5107645131c79230a7fb2421e9898386.jpg|1973–1976</string>
 
-    <string name="pagani_zonda_cinque">116|23|Zonda Cinque|url|2009–2011</string>
-    <string name="pagani_huayra">117|23|Huayra|url|2012-presente</string>
-    <string name="pagani_zonda_r">118|23|Zonda R|url|2007–2011</string>
-    <string name="pagani_zonda_f">119|23|Zonda F|url|2005–2009</string>
-    <string name="pagani_huayra_bc">120|23|Huayra Roadster BC|url|2019-presente</string>
+    <string name="muscle_chevrolet">8|3|Chevrolet|https://media.gm.com/dld/content/dam/Media/images/INTL/chevrolet/logos/chevrolet-logo/Chevrolet-Logo-286513.jpg|Chevrolet, creador del Camaro y el Corvette, destaca por su estilo agresivo y motores V8 que rugen con fuerza.</string>
 
-    <string name="exotic_ferrari">24|4|Ferrari|https://thumbs.dreamstime.com/b/logotipo-vectorial-de-la-marca-ferrari-logo-coches-caballo-y-velocidad-conducir-183281416.jpg</string>
+    <string name="chevrolet_camaro">56|8|Camaro (ZL1)|https://hips.hearstapps.com/es.h-cdn.co/cades/contenidos/47760/2018-chevrolet-camaro-zl1-1le-104-1.jpg|1967-presente</string>
+    <string name="chevrolet_corvette">57|8|Corvette (C3 Stingray)|https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chevrolet_Corvette_C3_Stingray_IMG_3199.jpg/800px-Chevrolet_Corvette_C3_Stingray_IMG_3199.jpg|1968–1982</string>
+    <string name="chevrolet_chevelle_ss">58|8|Chevelle SS|https://i.pinimg.com/736x/b9/12/b2/b912b2ee7fcc7a69a21bc9f5cfcb4322.jpg|1964–1973</string>
+    <string name="chevrolet_impala_ss">59|8|Impala SS|https://www.carscoops.com/wp-content/uploads/2018/05/forgiato-impala-killer-mike.jpg|1961–1969</string>
+    <string name="chevrolet_el_camino">60|8|El Camino|https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/1968_El_Camino.jpg/1200px-1968_El_Camino.jpg|1959–1987</string>
 
-    <string name="ferrari_f40">81|24|F40|url|1987–1992</string>
-    <string name="ferrari_458_italia">82|24|458 Italia|url|2009–2015</string>
-    <string name="ferrari_enzo">83|24|Enzo|url|2002–2004</string>
-    <string name="ferrari_testarossa">84|24|Testarossa|url|1984–1996</string>
-    <string name="ferrari_laferrari">85|24|LaFerrari|url|2013–2016</string>
+    <string name="muscle_dodge">9|3|Dodge|https://logos-world.net/wp-content/uploads/2021/03/Dodge-Symbol.png|Dodge es sinónimo de Muscle puro. Vehículos como el Charger y el Challenger Hellcat personifican la velocidad y el poder descomunal.</string>
+
+    <string name="dodge_charger">61|9|Charger R/T|https://i0.wp.com/www.negociosmagazine.com/wp-content/uploads/2020/04/Charger_SRT_2020_1.jpg?fit=980%2C599&amp;ssl=1|1966-presente</string>
+    <string name="dodge_challenger_hellcat">62|9|Challenger Hellcat|https://a.ccdn.es/cnet/contents/media/dodge/1188777.jpg/768x431cut/|2015-presente</string>
+    <string name="dodge_viper_gts">63|9|Viper GTS|https://noticias.coches.com/wp-content/uploads/2023/10/coches.com_dodge-viper-gts-1996-subasta-john-herlitz-4.jpeg|1996–2002</string>
+    <string name="dodge_dart_swinger">64|9|Dart Swinger|https://upload.wikimedia.org/wikipedia/commons/7/71/Dodge-Dart-Swinger.jpg|1969–1976</string>
+    <string name="dodge_daytona">65|9|Daytona|https://robbreport.com/wp-content/uploads/2022/04/chargerdaytona07.jpg?w=1000|1969–1970</string>
+
+    <string name="muscle_pontiac">10|3|Pontiac|https://1000logos.net/wp-content/uploads/2020/04/Pontiac-Logo-2002.png|Pontiac, aunque ya no está en producción, dejó un legado imborrable con modelos como el GTO, considerado el pionero del muscle car.</string>
+
+    <string name="pontiac_firebird_trans_am">66|10|Firebird Trans Am|https://www.coches.com/fotos_historicas/pontiac/Firebird-Trans-Am--1977-1979/pontiac_firebird-trans-am-1977-79_r10.jpg|1969–2002</string>
+    <string name="pontiac_gto_judge">67|10|GTO (The Judge)|https://www.motorious.com/content/images/2022/03/01-1520373767379@2x.jpg|1969–1971</string>
+    <string name="pontiac_grand_prix_sj">68|10|Grand Prix SJ|https://onallcylinders.com/wp-content/uploads/2023/06/25/1969-Pontiac-Grand-Prix-SJ-front-quarter.jpg|1973–1977</string>
+    <string name="pontiac_bonneville">69|10|Bonneville|https://www.automoli.com/common/vehicles/_assets/img/gallery/f114/pontiac-bonneville-ii.jpg|1957–2005</string>
+    <string name="pontiac_solstice_gxp">70|10|Solstice GXP|https://www.todosobreautos.com/content/images/size/w1200/2024/05/2007-pontiac-solstice-gxp.webp|2006–2009</string>
+
+    <string name="muscle_plymouth">11|3|Plymouth|https://cdn.worldvectorlogo.com/logos/plymouth-9.svg|Plymouth brilló con el icónico Barracuda, un coche que aún hoy es un objeto de deseo para los amantes de los clásicos.</string>
+
+    <string name="plymouth_barracuda">71|11|Barracuda (Hemi Cuda)|https://www.streetmachine.com.au/wp-content/uploads/2023/07/barracuda-1b.jpg|1964–1974</string>
+    <string name="plymouth_road_runner">72|11|Road Runner|https://www.motorious.com/content/images/size/w1200/2021/06/1970-plymouth-road-runner-1.jpg|1968–1980</string>
+    <string name="plymouth_fury">73|11|Fury (Christine)|https://images.squarespace-cdn.com/content/v1/6598c8e83ff0af0197ff19f9/1709361592073-3NVJFIX9TJTEKS2KVEAQ/1958-Plymouth-Fury-Christine_0014_15.jpg|1956–1978</string>
+    <string name="plymouth_duster">74|11|Duster|https://cdn.classic-trader.com/I/images/960_720/vehicle_ad_standard_image_3f820e76a038bc13d7468ad26de17414.jpg|1970–1976</string>
+    <string name="plymouth_belvedere_gtx">75|11|Belvedere GTX|https://www.coches.com/fotos_historicas/plymouth/Belvedere-GTX-1967/plymouth_belvedere-gtx-1967_r3.jpg|1967–1971</string>
+
+    <string name="muscle_buick">12|3|Buick|https://1000logos.net/wp-content/uploads/2020/04/Buick-Logo-2015.png|Buick aportó lujo y potencia al segmento con modelos como el Gran Sport y el Regal GNX, destacando en el mercado americano.</string>
+
+    <string name="buick_gnx">76|12|GNX|https://periodismodelmotor.com/buick-gnx-1987/257859/buick-gnx/|1987</string>
+    <string name="buick_riviera_boat_tail">77|12|Riviera (Boat–Tail)|https://hips.hearstapps.com/hmg-prod/images/buick-riviera-front-3-4-64fce69164a62.jpg|1971–1973</string>
+    <string name="buick_regal_t_type">78|12|Regal T–Type|https://cdn.dealeraccelerate.com/gkm/1/1166/160828/790x1024/1987-buick-regal-t-type|1983–1987</string>
+    <string name="buick_skylark_gsx">79|12|Skylark GSX|https://static1.topspeedimages.com/wordpress/wp-content/uploads/2023/01/1970-buick-gsx.jpg|1970–1972</string>
+    <string name="buick_wildcat">80|12|Wildcat|https://musclecar.uk/wp-content/uploads/2019/03/Buick-Wildcat-1964.jpg|1962–1970</string>
+
+
+    <string name="exotic_bugatti">19|4|Bugatti|https://upload.wikimedia.org/wikipedia/commons/a/a9/Bugatti_Logo.png|Bugatti representa el pináculo del lujo y la velocidad. Con modelos como el Veyron y el Chiron, redefine los límites de la ingeniería.</string>
+
+    <string name="bugatti_veyron">106|19|Veyron 16.4|https://upload.wikimedia.org/wikipedia/commons/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg|2005–2015</string>
+    <string name="bugatti_chiron">107|19|Chiron|https://cdn.motor1.com/images/mgl/VzMq0z/s1/bugatti-chiron-1500.jpg|2016-presente</string>
+    <string name="bugatti_eb110">108|19|EB110|https://img.remediosdigitales.com/7061d8/bugatti-eb110-gt-prototype-1994-03/1366_2000.jpeg|1991–1995</string>
+    <string name="bugatti_type_57">109|19|Type 57 Atlantic|https://s2.abcstatics.com/media/summum/2019/06/19/1936-Bugatti-Type-57SC-Atlantic-Coupe-1-k4GC--1248x698@abc.jpg|1936–1938</string>
+    <string name="bugatti_bolide">110|19|Bolide|https://cdn.topgear.es/sites/navi.axelspringer.es/public/media/image/2024/05/bugatti-bolide-3315472.jpg?tf=3840x|2021-presente</string>
+
+    <string name="exotic_mclaren">20|4|McLaren|https://logoeps.com/wp-content/uploads/2012/12/mclaren-logo-vector.png|McLaren combina tecnología de la Fórmula 1 con diseño aerodinámico. Coches como el 720S son verdaderas obras de arte en movimiento.</string>
+
+    <string name="mclaren_f1">91|20|F1|https://hips.hearstapps.com/es.h-cdn.co/cades/contenidos/10575/mclaren_20f1_201200x600.jpg|1992–1998</string>
+    <string name="mclaren_p1">92|20|P1|https://cdn.motor1.com/images/mgl/7nX6V/s3/elado-az-elso-legyartott-mclaren-p1.jpg|2013–2015</string>
+    <string name="mclaren_mp4_12c">93|20|MP4–12C|https://cdn.topgear.es/sites/navi.axelspringer.es/public/media/image/2020/11/mclaren-mp4-12c-2152029.jpg?tf=3840x|2011–2014</string>
+    <string name="mclaren_720s">94|20|720S|https://res.cloudinary.com/unix-center/image/upload/c_limit,dpr_3.0,f_auto,fl_progressive,g_center,h_580,q_75,w_906/ctjvjtjfxqavguj60uss.jpg|2017-presente</string>
+    <string name="mclaren_senna">95|20|Senna|https://mclaren.scene7.com/is/image/mclaren/McLaren-Senna-VPdrive-Silverstone-04:crop-4x3?wid=1920&amp;hei=1440|2018-presente</string>
+
+    <string name="exotic_lamborghini">21|4|Lamborghini|https://img.remediosdigitales.com/ea3a4d/10974309_1087071384651814_2377105394985826515_o/1366_2000.jpg|Lamborghini es sinónimo de extravagancia y potencia. Desde el Aventador hasta el Huracán, cada modelo es pura adrenalina.</string>
+
+    <string name="lamborghini_countach">86|21|Countach|https://www.autonocion.com/wp-content/uploads/2024/09/Countach.jpg|1974–1990</string>
+    <string name="lamborghini_diablo_sv">87|21|Diablo SV|https://www.todosobreautos.com/content/images/2024/09/1998_lamborghini_diablo-sv_dsc00422-3-86374.webp|1990–2001</string>
+    <string name="lamborghini_murcielago">88|21|Murciélago|https://www.flexicar.es/media/imagenes/lamborghini-murcielago-review.jpg|2001–2010</string>
+    <string name="lamborghini_aventador">89|21|Aventador|https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/masterpieces/aventador_coupe/s/aventador_coupe_s_02_m.jpg|2011-presente</string>
+    <string name="lamborghini_miura">90|21|Miura|https://img.remediosdigitales.com/59c29a/lamborghini-miura-p400/1366_2000.jpg|1966–1973</string>
+
+    <string name="exotic_koenigsegg">22|4|Koenigsegg|https://i.pinimg.com/736x/b5/e0/1f/b5e01ff8c0f55bed179312a688ded80c.jpg|Koenigsegg innova constantemente con modelos como el Jesko y el Agera, superando los límites de la velocidad y la tecnología.</string>
+
+
+    <string name="koenigsegg_ccx">111|22|CCX|https://www.supervettura.com/blobs/Cars/194/10608f17-e2ec-4f95-a09f-3221b6cd3f34.jpg?width=1920&amp;height=1080&amp;mode=crop|2006–2010</string>
+    <string name="koenigsegg_agera">112|22|Agera RS|https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Koenigsegg_agera.jpg/1200px-Koenigsegg_agera.jpg|2015–2018</string>
+    <string name="koenigsegg_regera">113|22|Regera|https://espirituracer.com/archivos/2023/05/koenigsegg-regera-2.webp|2016-presente</string>
+    <string name="koenigsegg_gemera">114|22|Gemera|https://hips.hearstapps.com/hmg-prod/images/koenigsegg-gemera-1583253645.jpg|2020-presente</string>
+    <string name="koenigsegg_jesko">115|22|Jesko|https://img.remediosdigitales.com/89b3aa/koenigsegg-jesko/1366_521.jpg|2021-presente</string>
+
+    <string name="exotic_pagani">23|4|Pagani|https://m.media-amazon.com/images/I/416zCPTV-NL.jpg|Pagani fusiona artesanía y velocidad. Modelos como el Zonda y el Huayra son esculturas sobre ruedas.</string>
+
+    <string name="pagani_zonda_cinque">116|23|Zonda Cinque|https://www.tomhartleyjnr.com/wp-content/uploads/2019/05/76107-011_1024x768.jpg|2009–2011</string>
+    <string name="pagani_huayra">117|23|Huayra|https://www.turbo.fr/sites/default/files/2024-01/Pagani%20Huayra%20r%C3%A9plique.jpg|2012-presente</string>
+    <string name="pagani_zonda_r">118|23|Zonda R|https://www.motor16.com/wp-content/webpc-passthru.php?src=https://www.motor16.com/wp-content/uploads/2022/02/19926_uatg3s87Womqk-p.jpg&amp;nocache=1|2007–2011</string>
+    <string name="pagani_zonda_f">119|23|Zonda F|https://images.autodaily.com.au/2022/12/Pagani-Zonda-F-drive-1.jpg|2005–2009</string>
+    <string name="pagani_huayra_bc">120|23|Huayra Roadster BC|https://img.remediosdigitales.com/f8a65c/pagani-huayra-roadster-bc-22-p/1366_2000.jpg|2019-presente</string>
+
+    <string name="exotic_ferrari">24|4|Ferrari|https://thumbs.dreamstime.com/b/logotipo-vectorial-de-la-marca-ferrari-logo-coches-caballo-y-velocidad-conducir-183281416.jpg|Ferrari es la pasión italiana en estado puro. Sus coches, como el F8 Tributo y el LaFerrari, son iconos de diseño y rendimiento.</string>
+
+    <string name="ferrari_f40">81|24|F40|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/F40_Ferrari_20090509.jpg/1200px-F40_Ferrari_20090509.jpg|1987–1992</string>
+    <string name="ferrari_458_italia">82|24|458 Italia|https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/458_Italia._%285129068564%29.jpg/800px-458_Italia._%285129068564%29.jpg|2009–2015</string>
+    <string name="ferrari_enzo">83|24|Enzo|https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Orange_Enzo_Ferrari_%287191948164%29.jpg/640px-Orange_Enzo_Ferrari_%287191948164%29.jpg|2002–2004</string>
+    <string name="ferrari_testarossa">84|24|Testarossa|https://media.istockphoto.com/id/527666382/es/foto/cl%C3%A1sico-roja-ferrari-testarrossa.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=j25bkneQTeekWbGNi7GFD1O9wYGaju4hOATJuLoUwmQ=|1984–1996</string>
+    <string name="ferrari_laferrari">85|24|LaFerrari|https://res.cloudinary.com/unix-center/image/upload/c_limit,dpr_3.0,f_auto,fl_progressive,g_center,h_240,q_auto:good,w_385/svwpfltutb7q4ezph1vb.jpg|2013–2016</string>
+
+    <string name="ficha_nissan_skyline_r34">1|1|Skyline GT–R (R34)|1999–2002|280 hp|Total (AWD)|12 l/100 km|250 km/h|https://cdn.topgear.es/sites/navi.axelspringer.es/public/media/image/2023/05/nissan-skyline-gt-r-r34-fast-furious-3029216.jpg|45000</string>
+    <string name="ficha_nissan_350z">2|2|350Z|2002-presente|300 hp|Trasera (RWD)|10.6 l/100 km|250 km/h|https://korncars.com/wp-content/uploads/2016/03/nissan-350-z-korncars-i.jpg?w=1140&amp;h=643&amp;crop=1|35000</string>
+    <string name="ficha_nissan_silvia">3|3|Silvia (S14)|1988–2002|220 hp|Trasera (RWD)|9.8 l/100 km|240 km/h|https://cdn.dealeraccelerate.com/international/1/719/32617/1920x1440/1997-nissan-silvia|25000</string>
+    <string name="ficha_nissan_240sx">4|4|240SX|1989–1998|155 hp|Trasera (RWD)|8.6 l/100 km|210 km/h|https://www.motorcarclassics.com/galleria_images/684/684_main_l.jpg|23000</string>
+    <string name="ficha_nissan_gtr_r35">5|5|GT-R (R35)|2007-presente|565 hp|Total (AWD)|11.8 l/100 km|315 km/h|https://media.istockphoto.com/id/1474627763/es/foto/nissan-gtr.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=4RxYcoePNaoNBk1kkNvyxMAWhbGwEsJJUBO0d59_RqA=|97000</string>
+
+    <string name="ficha_toyota_supra_a80">6|6|Supra (MK4 A80)|1993–2002|320 hp|Trasera (RWD)|11.5 l/100 km|250 km/h|https://i.ytimg.com/vi/ydTumL8g_rY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&amp;rs=AOn4CLBsBUsWe7rEJR_md3yBZ2Eu1UA7rw|40000</string>
+    <string name="ficha_toyota_ae86">7|7|AE86 (Corolla Trueno)|1983–1987|130 hp|Trasera (RWD)|8.5 l/100 km|200 km/h|https://www.targasport.com.ar/wp-content/uploads/TargaSport-Toyota-AE86-Trueno-2.jpg|16000</string>
+    <string name="ficha_toyota_celica_gt4">8|8|Celica GT–Four|1986–1999|255 hp|Total (AWD)|10.2 l/100 km|240 km/h|https://media.fastestlaps.com/toyota-celica-gt-four-st185-rc.jpg|28000</string>
+    <string name="ficha_toyota_mr2">9|9|MR2|1984–2007|200 hp|Trasera (RWD)|8.9 l/100 km|230 km/h|https://espirituracer.com/archivos/2018/12/Toyota-MR2-W20.jpg|24000</string>
+    <string name="ficha_toyota_chaser">10|10|Chaser (JZX100)|1996–2001|280 hp|Trasera (RWD)|10.5 l/100 km|240 km/h|https://preview.redd.it/ta4f1vtja7371.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5a8b485fd61f52cfc63d0bfcbf113b01607a18e|30000</string>
+
+    <string name="ficha_honda_civic_type_r">11|11|Civic Type R (EK9)|1997-presente|200 hp|Delantera (FWD)|8.2 l/100 km|235 km/h|https://lapmeta.com/storage/vi-images/n85F2tWFE8.jpeg|28000</string>
+    <string name="ficha_honda_nsx_na1">12|12|NSX (NA1)|1990–2005|270 hp|Trasera (RWD)|10.2 l/100 km|270 km/h|https://www.super-hobby.es/zdjecia/5/4/9/3391_rd.jpg|120000</string>
+    <string name="ficha_honda_integra_type_r">13|13|Integra Type R (DC2)|1995–2001|190 hp|Delantera (FWD)|8.4 l/100 km|225 km/h|https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2022/08/honda-acura-integra-type-r-2782041.jpg?tf=3840x|25000</string>
+    <string name="ficha_honda_s2000">14|14|S2000|1999–2009|240 hp|Trasera (RWD)|10 l/100 km|240 km/h|https://cdn.motor1.com/images/mgl/mMPMyr/s3/honda-s2000r-by-evasive-motorsports.jpg|35000</string>
+    <string name="ficha_honda_crx">15|15|CR–X del Sol|1983–1991|150 hp|Delantera (FWD)|7.5 l/100 km|210 km/h|https://clasicosyusados.weebly.com/uploads/2/7/0/6/27065335/3036175_orig.jpg|18000</string>
+
+    <string name="ficha_mazda_rx7">16|16|RX–7 (FD3S)|1992–2002|280 hp|Trasera (RWD)|10.6 l/100 km|250 km/h|https://mividallenadecoches.wordpress.com/wp-content/uploads/2024/06/mazda-rx-7-type-r-bathurst-r-2616033.webp?w=1038&amp;h=576&amp;crop=1|32000</string>
+    <string name="ficha_mazda_mx5">17|17|MX-5 Miata (NA)|1989-presente|140 hp|Trasera (RWD)|6.8 l/100 km|200 km/h|https://www.diariomotor.com/imagenes/2020/09/mazda-mx-5-na-01-portada.jpg|20000</string>
+    <string name="ficha_mazda_rx8">18|18|RX–8|2003–2012|232 hp|Trasera (RWD)|11 l/100 km|230 km/h|https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2018/07/mazda-rx-8_5.jpg?tf=3840x|28000</string>
+    <string name="ficha_mazda_m3_mps">19|19|Mazda3 MPS|2007–2013|260 hp|Delantera (FWD)|9.6 l/100 km|250 km/h|https://a.ccdn.es/cnet/contents/media/mazda/mazda3/127299.jpg/900x505cut/|27000</string>
+    <string name="ficha_mazda_cosmo">20|20|Cosmo|1967–1996|130 hp|Trasera (RWD)|7.8 l/100 km|200 km/h|https://cdn.motor1.com/images/mgl/P3WeL4/s1/mazda-cosmo-sport-serie-ii-1968---dinamica.webp|25000</string>
+
+    <string name="ficha_subaru_impreza_wrx_sti">21|21|Impreza WRX STI (GC8)|1992-presente|280 hp|Total (AWD)|11 l/100 km|250 km/h|https://hips.hearstapps.com/hmg-prod/images/subaru-wrx-sti-type-r-subasta-1640893491.jpg|35000</string>
+    <string name="ficha_subaru_legacy_gt_b">22|22|Legacy GT–B|1996–2003|280 hp|Total (AWD)|10.5 l/100 km|240 km/h|https://i.ytimg.com/vi/HlK2k5mRO2g/maxresdefault.jpg|30000</string>
+    <string name="ficha_subaru_brz">23|23|BRZ|2012-presente|200 hp|Trasera (RWD)|7.8 l/100 km|226 km/h|https://e.allegroimg.com/s512/03ef01/233e115e4356adb750c88dd9d8de/Silnik-Subaru-BRZ-Toyota-GT86-po-naprawie|28000</string>
+    <string name="ficha_subaru_forester_xt">24|24|Forester XT|1997-presente|230 hp|Total (AWD)|9.3 l/100 km|210 km/h|https://images.squarespace-cdn.com/content/v1/5aac1f6a5cfd796d520a4a7a/1711652734008-KTNEOYZ9G695W2AHN8C2/IMG_4898.jpg?format=1000w|30000</string>
+    <string name="ficha_subaru_svx">25|25|SVX|1991–1996|230 hp|Total (AWD)|10.6 l/100 km|240 km/h|https://preview.redd.it/1l4ywtjpkyk91.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=9d759231b7d250dfef579bedbceb0a986e8fd9ab|28000</string>
+
+    <string name="ficha_mitsubishi_lancer_evo">26|26|Lancer Evolution (Evo IX)|1992–2015|280 hp|Total (AWD)|10.2 l/100 km|250 km/h|https://www.lapmeta.com/storage/vi-images/a0XGdgIvG5.jpeg|40000</string>
+    <string name="ficha_mitsubishi_3000gt">27|27|3000GT (GTO)|1990–2001|320 hp|Total (AWD)|12 l/100 km|250 km/h|https://www.topgear.com/sites/default/files/2023/12/1999_Mitsubishi_3000GT.jpg|45000</string>
+    <string name="ficha_mitsubishi_eclipse">28|28|Eclipse (2G)|1995–1999|210 hp|Delantera (FWD)|9.6 l/100 km|220 km/h|https://avcdn.av.by/cargeneration/0001/1464/9845.jpg|25000</string>
+    <string name="ficha_mitsubishi_starion">29|29|Starion|1982–1989|170 hp|Trasera (RWD)|8.9 l/100 km|210 km/h|https://www.motortrend.com/files/6671c96e952e1c0008a712fe/005-1987-mitsubishi-starion-silver-front-three-quarter.jpg?w=768&amp;width=768&amp;q=75&amp;format=webp|22000</string>
+    <string name="ficha_mitsubishi_galant_vr4">30|30|Galant VR–4|1988–2002|240 hp|Total (AWD)|9.8 l/100 km|230 km/h|https://jdmsupply.com/storage/images/vehicle/800/6kQ2TNQI3pJd5IJqorMj52xtXVOvnXIOYDYxatrL_1214x854.webp|30000</string>
+
+    <string name="ficha_volkswagen_golf_gti">46|46|Golf GTI (MK2)|1976-presente|150 hp|Delantera (FWD)|8.5 l/100 km|205 km/h|https://www.norclassics.com/wp-content/uploads/2022/03/MG_3628.jpg|20000</string>
+    <string name="ficha_volkswagen_beetle">47|47|Beetle (Type 1)|1938–2003|50 hp|Trasera (RWD)|7 l/100 km|130 km/h|https://live.staticflickr.com/936/41744902730_483135183e_b.jpg|15000</string>
+    <string name="ficha_volkswagen_scirocco">48|48|Scirocco|1974–1992|140 hp|Delantera (FWD)|7.8 l/100 km|190 km/h|https://www.automoli.com/common/vehicles/_assets/img/gallery/f85/volkswagen-scirocco-53b.jpg|23000</string>
+    <string name="ficha_volkswagen_phaeton">49|49|Phaeton|2001–2004|335 hp|Delantera (FWD)|12 l/100 km|240 km/h|https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2017/07/volkswagen-phaeton.jpg?tf=3840x|60000</string>
+    <string name="ficha_volkswagen_corrado_vr6">50|50|Corrado VR6|1991–1995|190 hp|Delantera (FWD)|9.8 l/100 km|230 km/h|https://espirituracer.com/archivos/2018/09/Volkswagen-Corrado-VR6-1.jpg|30000</string>
+
+    <string name="ficha_audi_quattro">41|41|Quattro (Ur–Quattro)|1980–1991|200 hp|Total (AWD)|9.6 l/100 km|220 km/h|https://cdn.topgear.es/sites/navi.axelspringer.es/public/media/image/2017/06/audi-quattro-2.jpg?tf=3840x|35000</string>
+    <string name="ficha_audi_rs2_avant">42|42|RS2 Avant|1994–1995|315 hp|Total (AWD)|11.2 l/100 km|262 km/h|https://cdn.motor1.com/images/mgl/weoGL/s3/audi-rs2-avant-1994.jpg|45000</string>
+    <string name="ficha_audi_r8">43|43|R8|2006-presente|540 hp|Total (AWD)|13.4 l/100 km|330 km/h|https://cdn.motor1.com/images/mgl/W89egj/s1/2023-audi-r8-v10-gt-rwd-exterior.webp|140000</string>
+    <string name="ficha_audi_tt_mk1">44|44|TT (MK1)|1998–2006|225 hp|Total (AWD)|8.8 l/100 km|240 km/h|https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2022/07/audi-tt-primera-generacion-2756617.jpg?tf=3840x|35000</string>
+    <string name="ficha_audi_a4_dtm">45|45|A4 DTM Edition|2005–2007|220 hp|Total (AWD)|9.5 l/100 km|235 km/h|https://www.retromotor.co.uk/wp-content/uploads/2022/03/001-Press-Fleet-Audi-A4-DTM.jpg|40000</string>
+
+    <string name="ficha_mercedes_190e_evo2">36|36|190E 2.5–16 Evolution II|1990–1992|235 hp|Trasera (RWD)|10.8 l/100 km|250 km/h|https://hips.hearstapps.com/hmg-prod/images/mercedes-benz-190-e-2-5-16-evolution-ii-01-65535f6fa7f95.png?crop=1.00xw:0.969xh;0,0.0314xh&amp;resize=1200:*|80000</string>
+    <string name="ficha_mercedes_amg_gt">37|37|AMG GT|2015-presente|469 hp|Trasera (RWD)|11.5 l/100 km|304 km/h|https://www.topgear.com/sites/default/files/2024/05/1-AMG-GT-UK-review-2024.jpg|120000</string>
+    <string name="ficha_mercedes_s_class_w140">38|38|S–Class (W140)|1991–1998|394 hp|Trasera (RWD)|14 l/100 km|250 km/h|https://www.todosobreautos.com/content/images/size/w1200/2024/06/9-1664631028_11zon-1.webp|100000</string>
+    <string name="ficha_mercedes_sl500_r129">39|39|SL500 (R129)|1989–2001|322 hp|Trasera (RWD)|12.8 l/100 km|250 km/h|https://netrinoimages.s3.eu-west-2.amazonaws.com/2005/05/06/1656/39643/mercedesbenz_sl500_amg_r129_19892001_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_4900799.jpg|70000</string>
+    <string name="ficha_mercedes_cls63_amg">40|40|CLS 63 AMG|2006-presente|563 hp|Total (AWD)|15.5 l/100 km|250 km/h|https://i.ebayimg.com/images/g/FE8AAOSwaxBl5aMW/s-l400.jpg|120000</string>
+
+    <string name="ficha_bmw_m3_e30">31|31|M3 (E30)|1986–1991|192 hp|Trasera (RWD)|10.1 l/100 km|235 km/h|https://hips.hearstapps.com/hmg-prod/images/365169894-614946964114034-6061787863742549576-n-64d1218dd7c5d.jpeg|55000</string>
+    <string name="ficha_bmw_m5_e39">32|32|M5 (E39)|1998–2003|394 hp|Trasera (RWD)|12.6 l/100 km|250 km/h|https://preview.redd.it/apf0ysqb07gc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4e589dcfa58fdf88f2b52e2420720b76181c6ee|70000</string>
+    <string name="ficha_bmw_2002_turbo">33|33|2002 Turbo|1973–1974|170 hp|Trasera (RWD)|10.2 l/100 km|210 km/h|https://cdn.motor1.com/images/mgl/L37BbM/s1/bmw-2002-turbo-1973-74.webp|45000</string>
+    <string name="ficha_bmw_z3_m_coupe">34|34|Z3 M Coupe|1998–2002|321 hp|Trasera (RWD)|11 l/100 km|250 km/h|https://cdn.motor1.com/images/mgl/PEe6G/s1/1998-bmw-m-coupe-for-sale-exterior.jpg|60000</string>
+    <string name="ficha_bmw_8_series_e31">35|35|8 Series (E31)|1990–1999|326 hp|Trasera (RWD)|13 l/100 km|250 km/h|https://www.stratstone.com/-/media/stratstone/spotlight/bmw-8-series-e31-coupe/2022/e31-8-series-1920x774px.ashx|80000</string>
+
+    <string name="ficha_peugeot_205_gti">96|96|205 GTI|1984–1994|130 hp|Delantera (FWD)|8.3 l/100 km|204 km/h|https://noticias.coches.com/wp-content/uploads/2022/11/Peugeot-205-GTI-Tolman-Edition-11.jpeg|15000</string>
+    <string name="ficha_peugeot_206_wrc">97|97|206 WRC|1999–2003|300 hp|Total (AWD)|11 l/100 km|240 km/h|https://autohebdosport.com/media/xt-adaptive-images/480/images/galerias/coches/noticias/peugeot-206-wrc-c04/4-peugeot-206-wrc-c04.webp|45000</string>
+    <string name="ficha_peugeot_405_mi16">98|98|405 Mi16|1987–1997|160 hp|Delantera (FWD)|9 l/100 km|215 km/h|https://espirituracer.com/archivos/2018/07/Peugeot-405-Mi16-1.jpg|18000</string>
+    <string name="ficha_peugeot_306_gti_6">99|99|306 GTI–6|1996–2001|167 hp|Delantera (FWD)|8.6 l/100 km|215 km/h|https://goauctionmpc.blob.core.windows.net/stock/1750-11-medium.jpg?v=63832435952223|20000</string>
+    <string name="ficha_peugeot_508_pse">100|100|508 PSE|2019-presente|360 hp|Total (AWD)|9 l/100 km|250 km/h|https://www.km77.com/images/medium/4/8/0/3/peugeot-508-pse-2021-frontal-lateral.354803.jpg|70000</string>
+
+    <string name="ficha_renault_clio_v6">101|101|Clio V6|2001–2005|230-255 hp|Trasera (RWD)|12.0 l/100 km|235 km/h|https://cdn.soulauto.com/wp-content/uploads/2024/07/00_00_RenaultClioSport-01-0631.jpg?x73351|60000</string>
+    <string name="ficha_renault_megane_rs">102|102|Megane RS|2004-presente|280-300 hp|Delantera (FWD)|7.4 l/100 km|250 km/h|https://www.ocasionplus.com/wp-content/uploads/2024/05/Renault-Megane-RS-Ultimate.jpg|35000</string>
+    <string name="ficha_renault_alpine_a110">103|103|Alpine A110|1961–1977|95-140 hp|Trasera (RWD)|9.0 l/100 km|210 km/h|https://www.alpine-rrg.com/user/themes/custom/img/new-models/A110-Desktop/Design-icone_de_style.jpg|40000</string>
+    <string name="ficha_renault_5_turbo">104|104|R5 Maxi Turbo|1980–1986|160-350 hp|Trasera (RWD)|13.0 l/100 km|200 km/h|https://cdn.soulauto.com/wp-content/uploads/2022/04/00_01_IMG_5169.jpg?x73351|45000</string>
+    <string name="ficha_renault_safrane_biturbo">105|105|Safrane Biturbo|1992–1996|262 hp|Total (AWD)|11.5 l/100 km|250 km/h|https://espirituracer.com/archivos/2018/03/renault-safrane-bi-turbo.jpg|60000</string>
+
+    <string name="ficha_bugatti_veyron">106|106|Veyron 16.4|2005–2015|1001 hp|Total (AWD)|23.1 l/100 km|407 km/h|https://upload.wikimedia.org/wikipedia/commons/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg|1500000</string>
+    <string name="ficha_bugatti_chiron">107|107|Chiron|2016-presente|1500 hp|Total (AWD)|22.5 l/100 km|420 km/h|https://cdn.motor1.com/images/mgl/VzMq0z/s1/bugatti-chiron-1500.jpg|2500000</string>
+    <string name="ficha_bugatti_eb110">108|108|EB110|1991–1995|553-603 hp|Total (AWD)|14.5 l/100 km|343 km/h|https://img.remediosdigitales.com/7061d8/bugatti-eb110-gt-prototype-1994-03/1366_2000.jpeg|500000</string>
+    <string name="ficha_bugatti_type_57">109|109|Type 57 Atlantic|1936–1938|135 hp|Trasera (RWD)|15.0 l/100 km|200 km/h|https://s2.abcstatics.com/media/summum/2019/06/19/1936-Bugatti-Type-57SC-Atlantic-Coupe-1-k4GC--1248x698@abc.jpg|40000000</string>
+    <string name="ficha_bugatti_bolide">110|110|Bolide|2021-presente|1850 hp|Total (AWD)|50.0 l/100 km|500 km/h|https://cdn.topgear.es/sites/navi.axelspringer.es/public/media/image/2024/05/bugatti-bolide-3315472.jpg?tf=3840x|5000000</string>
+
+    <string name="ficha_mclaren_f1">91|91|F1|1992–1998|627 hp|Trasera (RWD)|15.2 l/100 km|386 km/h|https://hips.hearstapps.com/es.h-cdn.co/cades/contenidos/10575/mclaren_20f1_201200x600.jpg|800000</string>
+    <string name="ficha_mclaren_p1">92|92|P1|2013–2015|903 hp|Trasera (RWD)|12.0 l/100 km|350 km/h|https://cdn.motor1.com/images/mgl/7nX6V/s3/elado-az-elso-legyartott-mclaren-p1.jpg|1200000</string>
+    <string name="ficha_mclaren_mp4_12c">93|93|MP4–12C|2011–2014|600 hp|Trasera (RWD)|11.7 l/100 km|333 km/h|https://cdn.topgear.es/sites/navi.axelspringer.es/public/media/image/2020/11/mclaren-mp4-12c-2152029.jpg?tf=3840x|250000</string>
+    <string name="ficha_mclaren_720s">94|94|720S|2017-presente|720 hp|Trasera (RWD)|10.7 l/100 km|341 km/h|https://res.cloudinary.com/unix-center/image/upload/c_limit,dpr_3.0,f_auto,fl_progressive,g_center,h_580,q_75,w_906/ctjvjtjfxqavguj60uss.jpg|300000</string>
+    <string name="ficha_mclaren_senna">95|95|Senna|2018-presente|800 hp|Trasera (RWD)|12.5 l/100 km|340 km/h|https://mclaren.scene7.com/is/image/mclaren/McLaren-Senna-VPdrive-Silverstone-04:crop-4x3?wid=1920&amp;hei=1440|1000000</string>
+
+    <string name="ficha_lamborghini_countach">86|86|Countach|1974–1990|375-455 hp|Trasera (RWD)|16.0 l/100 km|295 km/h|https://www.autonocion.com/wp-content/uploads/2024/09/Countach.jpg|100000</string>
+    <string name="ficha_lamborghini_diablo_sv">87|87|Diablo SV|1990–2001|492 hp|Trasera (RWD)|17.0 l/100 km|325 km/h|https://www.todosobreautos.com/content/images/2024/09/1998_lamborghini_diablo-sv_dsc00422-3-86374.webp|200000</string>
+    <string name="ficha_lamborghini_murcielago">88|88|Murciélago|2001–2010|580-670 hp|Trasera (RWD)|20.0 l/100 km|330 km/h|https://www.flexicar.es/media/imagenes/lamborghini-murcielago-review.jpg|300000</string>
+    <string name="ficha_lamborghini_aventador">89|89|Aventador|2011-presente|700-780 hp|Total (AWD)|17.2 l/100 km|350 km/h|https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/masterpieces/aventador_coupe/s/aventador_coupe_s_02_m.jpg|400000</string>
+    <string name="ficha_lamborghini_miura">90|90|Miura|1966–1973|350 hp|Trasera (RWD)|16.0 l/100 km|276 km/h|https://img.remediosdigitales.com/59c29a/lamborghini-miura-p400/1366_2000.jpg|80000</string>
+
+    <string name="ficha_koenigsegg_ccx">111|111|CCX|2006–2010|806 hp|Trasera (RWD)|15.0 l/100 km|395 km/h|https://www.supervettura.com/blobs/Cars/194/10608f17-e2ec-4f95-a09f-3221b6cd3f34.jpg?width=1920&amp;height=1080&amp;mode=crop|650000</string>
+    <string name="ficha_koenigsegg_agera">112|112|Agera RS|2015–2018|1160 hp|Trasera (RWD)|13.0 l/100 km|447 km/h|https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Koenigsegg_agera.jpg/1200px-Koenigsegg_agera.jpg|1500000</string>
+    <string name="ficha_koenigsegg_regera">113|113|Regera|2016-presente|1500 hp|Trasera (RWD)|12.0 l/100 km|400 km/h|https://espirituracer.com/archivos/2023/05/koenigsegg-regera-2.webp|2000000</string>
+    <string name="ficha_koenigsegg_gemera">114|114|Gemera|2020-presente|1700 hp|Total (AWD)|20.0 l/100 km|400 km/h|https://hips.hearstapps.com/hmg-prod/images/koenigsegg-gemera-1583253645.jpg|2000000</string>
+    <string name="ficha_koenigsegg_jesko">115|115|Jesko|2021-presente|1600 hp|Trasera (RWD)|13.0 l/100 km|482 km/h|https://img.remediosdigitales.com/89b3aa/koenigsegg-jesko/1366_521.jpg|3000000</string>
+
+    <string name="ficha_pagani_zonda_cinque">116|116|Zonda Cinque|2009–2011|678 hp|Trasera (RWD)|14.5 l/100 km|350 km/h|https://www.tomhartleyjnr.com/wp-content/uploads/2019/05/76107-011_1024x768.jpg|1700000</string>
+    <string name="ficha_pagani_huayra">117|117|Huayra|2012-presente|730-764 hp|Trasera (RWD)|14.0 l/100 km|370 km/h|https://www.turbo.fr/sites/default/files/2024-01/Pagani%20Huayra%20r%C3%A9plique.jpg|1500000</string>
+    <string name="ficha_pagani_zonda_r">118|118|Zonda R|2007–2011|740 hp|Trasera (RWD)|16.0 l/100 km|350 km/h|https://www.motor16.com/wp-content/webpc-passthru.php?src=https://www.motor16.com/wp-content/uploads/2022/02/19926_uatg3s87Womqk-p.jpg&amp;nocache=1|2200000</string>
+    <string name="ficha_pagani_zonda_f">119|119|Zonda F|2005–2009|602 hp|Trasera (RWD)|13.0 l/100 km|345 km/h|https://images.autodaily.com.au/2022/12/Pagani-Zonda-F-drive-1.jpg|1400000</string>
+    <string name="ficha_pagani_huayra_bc">120|120|Huayra Roadster BC|2019-presente|791 hp|Trasera (RWD)|15.0 l/100 km|370 km/h|https://img.remediosdigitales.com/f8a65c/pagani-huayra-roadster-bc-22-p/1366_2000.jpg|2000000</string>
+
+    <string name="ficha_ferrari_f40">81|81|F40|1987–1992|478 hp|Trasera (RWD)|11.0 l/100 km|324 km/h|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/F40_Ferrari_20090509.jpg/1200px-F40_Ferrari_20090509.jpg|400000</string>
+    <string name="ficha_ferrari_458_italia">82|82|458 Italia|2009–2015|570 hp|Trasera (RWD)|13.3 l/100 km|325 km/h|https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/458_Italia._%285129068564%29.jpg/800px-458_Italia._%285129068564%29.jpg|240000</string>
+    <string name="ficha_ferrari_enzo">83|83|Enzo|2002–2004|651 hp|Trasera (RWD)|18.0 l/100 km|350 km/h|https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Orange_Enzo_Ferrari_%287191948164%29.jpg/640px-Orange_Enzo_Ferrari_%287191948164%29.jpg|650000</string>
+    <string name="ficha_ferrari_testarossa">84|84|Testarossa|1984–1996|390-428 hp|Trasera (RWD)|13.5 l/100 km|290 km/h|https://media.istockphoto.com/id/527666382/es/foto/cl%C3%A1sico-roja-ferrari-testarrossa.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=j25bkneQTeekWbGNi7GFD1O9wYGaju4hOATJuLoUwmQ=|181000</string>
+    <string name="ficha_ferrari_laferrari">85|85|LaFerrari|2013–2016|950 hp|Total (AWD)|14.2 l/100 km|350 km/h|https://res.cloudinary.com/unix-center/image/upload/c_limit,dpr_3.0,f_auto,fl_progressive,g_center,h_240,q_auto:good,w_385/svwpfltutb7q4ezph1vb.jpg|1400000</string>
+
+    <string name="ficha_ford_mustang">51|51|Mustang (GT500)|1967-presente|350 hp|Trasera (RWD)|15 l/100 km|250 km/h|https://espirituracer.com/archivos/2019/11/shelby-mustang-gt500-eleanor-60-segundos-10.jpg|$5,000</string>
+    <string name="ficha_ford_gt40">52|52|GT40|1964–1969|400 hp|Trasera (RWD)|16 l/100 km|320 km/h|https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2014/02/294919-ford-gt40-steve-mcqueen-frontal.jpg?tf=1200x|$18,000</string>
+    <string name="ficha_ford_thunderbird">53|53|Thunderbird|1955–2005|300 hp|Trasera (RWD)|14 l/100 km|200 km/h|https://upload.wikimedia.org/wikipedia/commons/2/2a/1956_Ford_Thunderbird_Blue.jpg|$3,500</string>
+    <string name="ficha_ford_cobra">54|54|Cobra (AC)|1962–1967|355 hp|Trasera (RWD)|17 l/100 km|260 km/h|https://8000vueltas.com/wp-content/uploads/2013/09/cobra_0.jpg|$7,500</string>
+    <string name="ficha_ford_falcon_xb">55|55|Falcon XB|1973–1976|300 hp|Trasera (RWD)|14 l/100 km|220 km/h|https://i.pinimg.com/736x/51/07/64/5107645131c79230a7fb2421e9898386.jpg|$4,500</string>
+
+    <string name="ficha_chevrolet_camaro">56|56|Camaro (ZL1)|1967-presente|375 hp|Trasera (RWD)|16 l/100 km|250 km/h|https://hips.hearstapps.com/es.h-cdn.co/cades/contenidos/47760/2018-chevrolet-camaro-zl1-1le-104-1.jpg|$4,200</string>
+    <string name="ficha_chevrolet_corvette">57|57|Corvette (C3 Stingray)|1968–1982|350 hp|Trasera (RWD)|15 l/100 km|240 km/h|https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chevrolet_Corvette_C3_Stingray_IMG_3199.jpg/800px-Chevrolet_Corvette_C3_Stingray_IMG_3199.jpg|$4,000</string>
+    <string name="ficha_chevrolet_chevelle_ss">58|58|Chevelle SS|1964–1973|370 hp|Trasera (RWD)|17 l/100 km|245 km/h|https://i.pinimg.com/736x/b9/12/b2/b912b2ee7fcc7a69a21bc9f5cfcb4322.jpg|$3,800</string>
+    <string name="ficha_chevrolet_impala_ss">59|59|Impala SS|1961–1969|340 hp|Trasera (RWD)|16 l/100 km|230 km/h|https://www.carscoops.com/wp-content/uploads/2018/05/forgiato-impala-killer-mike.jpg|$3,600</string>
+    <string name="ficha_chevrolet_el_camino">60|60|El Camino|1959–1987|325 hp|Trasera (RWD)|15 l/100 km|220 km/h|https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/1968_El_Camino.jpg/1200px-1968_El_Camino.jpg|$3,200</string>
+
+    <string name="ficha_dodge_charger">61|61|Charger R/T|1966-presente|375 hp|Trasera (RWD)|16 l/100 km|260 km/h|https://i0.wp.com/www.negociosmagazine.com/wp-content/uploads/2020/04/Charger_SRT_2020_1.jpg?fit=980%2C599&amp;ssl=1|$3,700</string>
+    <string name="ficha_dodge_challenger_hellcat">62|62|Challenger Hellcat|2015-presente|707 hp|Trasera (RWD)|17 l/100 km|320 km/h|https://a.ccdn.es/cnet/contents/media/dodge/1188777.jpg/768x431cut/|$59,000</string>
+    <string name="ficha_dodge_viper_gts">63|63|Viper GTS|1996–2002|450 hp|Trasera (RWD)|16 l/100 km|300 km/h|https://noticias.coches.com/wp-content/uploads/2023/10/coches.com_dodge-viper-gts-1996-subasta-john-herlitz-4.jpeg|$50,000</string>
+    <string name="ficha_dodge_dart_swinger">64|64|Dart Swinger|1969–1976|290 hp|Trasera (RWD)|15 l/100 km|210 km/h|https://upload.wikimedia.org/wikipedia/commons/7/71/Dodge-Dart-Swinger.jpg|$2,800</string>
+    <string name="ficha_dodge_daytona">65|65|Daytona|1969–1970|425 hp|Trasera (RWD)|17 l/100 km|280 km/h|https://robbreport.com/wp-content/uploads/2022/04/chargerdaytona07.jpg?w=1000|$4,800</string>
+
+    <string name="ficha_pontiac_firebird_trans_am">66|66|Firebird Trans Am|1969–2002|310 hp|Trasera (RWD)|15 l/100 km|230 km/h|https://www.coches.com/fotos_historicas/pontiac/Firebird-Trans-Am--1977-1979/pontiac_firebird-trans-am-1977-79_r10.jpg|$3,500</string>
+    <string name="ficha_pontiac_gto_judge">67|67|GTO (The Judge)|1969–1971|370 hp|Trasera (RWD)|16 l/100 km|250 km/h|https://www.motorious.com/content/images/2022/03/01-1520373767379@2x.jpg|$4,200</string>
+    <string name="ficha_pontiac_grand_prix_sj">68|68|Grand Prix SJ|1973–1977|300 hp|Trasera (RWD)|15 l/100 km|220 km/h|https://onallcylinders.com/wp-content/uploads/2023/06/25/1969-Pontiac-Grand-Prix-SJ-front-quarter.jpg|$3,000</string>
+    <string name="ficha_pontiac_bonneville">69|69|Bonneville|1957–2005|280 hp|Trasera (RWD)|14 l/100 km|210 km/h|https://www.automoli.com/common/vehicles/_assets/img/gallery/f114/pontiac-bonneville-ii.jpg|$3,200</string>
+    <string name="ficha_pontiac_solstice_gxp">70|70|Solstice GXP|2006–2009|260 hp|Trasera (RWD)|10 l/100 km|220 km/h|https://www.todosobreautos.com/content/images/size/w1200/2024/05/2007-pontiac-solstice-gxp.webp|$24,000</string>
+
+    <string name="ficha_plymouth_barracuda">71|71|Barracuda (Hemi Cuda)|1964–1974|425 hp|Trasera (RWD)|16 l/100 km|250 km/h|https://www.streetmachine.com.au/wp-content/uploads/2023/07/barracuda-1b.jpg|$5,200</string>
+    <string name="ficha_plymouth_road_runner">72|72|Road Runner|1968–1980|335 hp|Trasera (RWD)|15 l/100 km|230 km/h|https://www.motorious.com/content/images/size/w1200/2021/06/1970-plymouth-road-runner-1.jpg|$3,600</string>
+    <string name="ficha_plymouth_fury">73|73|Fury (Christine)|1956–1978|305 hp|Trasera (RWD)|14 l/100 km|200 km/h|https://images.squarespace-cdn.com/content/v1/6598c8e83ff0af0197ff19f9/1709361592073-3NVJFIX9TJTEKS2KVEAQ/1958-Plymouth-Fury-Christine_0014_15.jpg|$3,800</string>
+    <string name="ficha_plymouth_duster">74|74|Duster|1970–1976|290 hp|Trasera (RWD)|14 l/100 km|220 km/h|https://cdn.classic-trader.com/I/images/960_720/vehicle_ad_standard_image_3f820e76a038bc13d7468ad26de17414.jpg|$3,400</string>
+    <string name="ficha_plymouth_belvedere_gtx">75|75|Belvedere GTX|1967–1971|375 hp|Trasera (RWD)|15 l/100 km|230 km/h|https://www.coches.com/fotos_historicas/plymouth/Belvedere-GTX-1967/plymouth_belvedere-gtx-1967_r3.jpg|$3,700</string>
+
+    <string name="ficha_buick_gnx">76|76|GNX|1987|276 hp|Trasera (RWD)|12 l/100 km|220 km/h|https://periodismodelmotor.com/buick-gnx-1987/257859/buick-gnx/|$29,000</string>
+    <string name="ficha_buick_riviera_boat_tail">77|77|Riviera (Boat–Tail)|1971–1973|330 hp|Trasera (RWD)|14 l/100 km|210 km/h|https://hips.hearstapps.com/hmg-prod/images/buick-riviera-front-3-4-64fce69164a62.jpg|$3,200</string>
+    <string name="ficha_buick_regal_t_type">78|78|Regal T–Type|1983–1987|200 hp|Trasera (RWD)|10 l/100 km|200 km/h|https://cdn.dealeraccelerate.com/gkm/1/1166/160828/790x1024/1987-buick-regal-t-type|$8,000</string>
+    <string name="ficha_buick_skylark_gsx">79|79|Skylark GSX|1970–1972|360 hp|Trasera (RWD)|14 l/100 km|240 km/h|https://static1.topspeedimages.com/wordpress/wp-content/uploads/2023/01/1970-buick-gsx.jpg|$4,800</string>
+    <string name="ficha_buick_wildcat">80|80|Wildcat|1962–1970|325 hp|Trasera (RWD)|14 l/100 km|210 km/h|https://musclecar.uk/wp-content/uploads/2019/03/Buick-Wildcat-1964.jpg|$4,000</string>
+
     <string name="tv_intro_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tristique dictum lorem, nec ornare justo pellentesque a. Quisque ultrices tempus est ac malesuada. Sed ultricies scelerisque purus eget suscipit. Pellentesque a venenatis velit. Donec imperdiet dolor non neque cursus, sit amet malesuada nibh lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra.</string>
+    <string name="tv_fecha_modelo">fecha</string>
+    <string name="titulo_ficha">Modelo</string>
+    <string name="tv_anyos_ficha">Años de fabricación:</string>
+    <string name="tv_potencia_ficha">Potencia:</string>
+    <string name="tv_potencia_ejemplo">XXX CV</string>
+    <string name="tv_velocidad_ficha">Velocidad máxima:</string>
+    <string name="tv_velocidad_ejemplo">XXX km/h</string>
+    <string name="tv_traccion_ficha">Tracción:</string>
+    <string name="tv_traccion_ejemplo">XXXX</string>
+    <string name="tv_precio_ficha">Precio:</string>
+    <string name="tv_precio_ejemplo">XXX €</string>
+    <string name="imgDescriptionFicha">Imagen de la ficha</string>
 
 </resources>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/margin_min"
+    tools:context=".DatosActivity">
+
+    <ImageView
+        android:id="@+id/imgFicha"
+        android:layout_width="370dp"
+        android:layout_height="230dp"
+        android:contentDescription="@string/imgDescriptionFicha"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvModeloFicha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/titulo_ficha"
+        android:layout_marginTop="@dimen/margin_min"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
+        app:layout_constraintStart_toStartOf="@id/imgFicha"
+        app:layout_constraintTop_toBottomOf="@id/imgFicha" />
+
+    <View
+        android:id="@+id/div1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        android:layout_margin="@dimen/margin_min"
+        app:layout_constraintTop_toBottomOf="@id/tvModeloFicha" />
+
+    <TextView
+        android:id="@+id/tvAnyosFicha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_anyos_ficha"
+        android:layout_marginTop="@dimen/margin_min"
+        app:layout_constraintTop_toBottomOf="@id/div1"
+        app:layout_constraintStart_toStartOf="@id/div1" />
+
+    <TextView
+        android:id="@+id/tvAnyos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_fecha_modelo"
+        app:layout_constraintEnd_toEndOf="@id/div1"
+        app:layout_constraintBottom_toBottomOf="@id/tvAnyosFicha" />
+
+    <View
+        android:id="@+id/div2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        android:layout_margin="@dimen/margin_min"
+        app:layout_constraintTop_toBottomOf="@id/tvAnyosFicha" />
+
+    <TextView
+        android:id="@+id/tvPotenciaFicha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_potencia_ficha"
+        android:layout_marginTop="@dimen/margin_min"
+        app:layout_constraintTop_toBottomOf="@id/div2"
+        app:layout_constraintStart_toStartOf="@id/div2" />
+
+    <TextView
+        android:id="@+id/tvPotencia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_potencia_ejemplo"
+        app:layout_constraintBottom_toBottomOf="@id/tvPotenciaFicha"
+        app:layout_constraintEnd_toEndOf="@id/div2" />
+
+    <View
+        android:id="@+id/div3"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        android:layout_margin="@dimen/margin_min"
+        app:layout_constraintTop_toBottomOf="@id/tvPotenciaFicha" />
+
+    <TextView
+        android:id="@+id/tvVelocidadMaxFicha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_velocidad_ficha"
+        android:layout_marginTop="@dimen/margin_min"
+        app:layout_constraintTop_toBottomOf="@id/div3"
+        app:layout_constraintStart_toStartOf="@id/div3" />
+
+    <TextView
+        android:id="@+id/tvVelocidadMax"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_velocidad_ejemplo"
+        app:layout_constraintBottom_toBottomOf="@id/tvVelocidadMaxFicha"
+        app:layout_constraintEnd_toEndOf="@id/div3" />
+
+    <View
+        android:id="@+id/div4"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        android:layout_margin="@dimen/margin_min"
+        app:layout_constraintTop_toBottomOf="@id/tvVelocidadMaxFicha" />
+
+    <TextView
+        android:id="@+id/tvTraccionFicha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_traccion_ficha"
+        android:layout_marginTop="@dimen/margin_min"
+        app:layout_constraintTop_toBottomOf="@id/div4"
+        app:layout_constraintStart_toStartOf="@id/div4" />
+
+    <TextView
+        android:id="@+id/tvTraccion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_traccion_ejemplo"
+        app:layout_constraintBottom_toBottomOf="@id/tvTraccionFicha"
+        app:layout_constraintEnd_toEndOf="@id/div4" />
+
+    <View
+        android:id="@+id/div5"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        android:layout_margin="@dimen/margin_min"
+        app:layout_constraintTop_toBottomOf="@id/tvTraccionFicha" />
+
+    <TextView
+        android:id="@+id/tvPrecioFicha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_precio_ficha"
+        android:layout_marginTop="@dimen/margin_min"
+        app:layout_constraintTop_toBottomOf="@id/div5"
+        app:layout_constraintStart_toStartOf="@id/div5" />
+
+    <TextView
+        android:id="@+id/tvPrecio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_precio_ejemplo"
+        app:layout_constraintBottom_toBottomOf="@id/tvPrecioFicha"
+        app:layout_constraintEnd_toEndOf="@id/div5" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -92,7 +92,7 @@ class BrandsActivity : AppCompatActivity(), OnClickListener {
 
         for (marca in recursosMarcas){
             val marcaData = marca.split("|")
-            val marcaFinal = Marcas(marcaData[0].toLong(), marcaData[1].toLong(), marcaData[2], marcaData[3])
+            val marcaFinal = Marcas(marcaData[0].toLong(), marcaData[1].toLong(), marcaData[2], marcaData[3], marcaData[4])
 
             if (marcaFinal.idCategoria == categoriaId){
                 marcas.add(marcaFinal)
@@ -143,8 +143,16 @@ class BrandsActivity : AppCompatActivity(), OnClickListener {
         return categorias
     }
 
+    private fun navigateToModels(marcaId: Long) {
+        val intent = Intent(this, ModelsActivity::class.java).apply {
+            putExtra("marcaId", marcaId)
+        }
+        startActivity(intent)
+    }
+
     override fun onCLick(marca: Marcas) {
-        Toast.makeText(this, "${marca.nombre}", Toast.LENGTH_SHORT).show()    }
+        navigateToModels(marca.id)
+    }
 
     override fun onLongClick(marca: Marcas) {
         Toast.makeText(this, "${marca.nombre}", Toast.LENGTH_SHORT).show()

@@ -9,26 +9,40 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="200dp">
+        android:layout_height="270dp">
 
         <ImageView
             android:id="@+id/imgCard"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:contentDescription="@string/card_img_description" />
+            android:layout_height="200dp"
+            android:contentDescription="@string/card_img_description"
+            android:layout_marginBottom="@dimen/margin_min"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/tvFecha"/>
 
-        
+
 
         <TextView
             android:id="@+id/tvTituloCard"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/tv_ejemplo_card"
-            android:textColor="@color/md_theme_onPrimary"
             android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
             android:layout_margin="@dimen/margin_medium"
-            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/imgCard"
             app:layout_constraintStart_toStartOf="parent"/>
+
+        <TextView
+            android:id="@+id/tvFecha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tv_fecha_modelo"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Body1"
+            android:layout_marginEnd="@dimen/margin_medium"
+            app:layout_constraintBottom_toTopOf="@id/tvTituloCard"
+            app:layout_constraintEnd_toEndOf="parent" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

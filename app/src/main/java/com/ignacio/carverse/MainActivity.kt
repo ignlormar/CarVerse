@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity(), OnClickListener {
 
         for (categoria in recursosCategorias){
             val categoriaData = categoria.split("|")
-            val categoriaFinal = Categorias(categoriaData[0].toLong(), categoriaData[1], categoriaData[2])
+            val categoriaFinal = Categorias(categoriaData[0].toLong(), categoriaData[1], categoriaData[2], categoriaData[3])
             categorias.add(categoriaFinal)
         }
 

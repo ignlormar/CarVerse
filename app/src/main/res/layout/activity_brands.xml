@@ -25,6 +25,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/margin_min"
+        android:paddingBottom="@dimen/margin_min"
+        android:textAppearance="@style/TextAppearance.Material3.BodyMedium"
         android:text="@string/tv_intro_lorem"
         app:layout_constraintTop_toBottomOf="@id/rcvAnterior"
         />
@@ -32,10 +34,11 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rcvBrands"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         app:layout_constraintTop_toBottomOf="@id/tvIntroCultura"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
         tools:listitem="@layout/item_main"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

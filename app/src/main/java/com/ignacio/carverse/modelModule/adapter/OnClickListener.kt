@@ -4,8 +4,9 @@ import com.ignacio.carverse.classes.Marcas
 import com.ignacio.carverse.classes.Modelos
 
 interface OnClickListener {
-    fun onCLick(marcas: Marcas)
-    fun onLongClick(marcas: Marcas)
-    fun onLongClick(modelos: Modelos)
-    fun onClick(modelos: Modelos)
+    fun onClick(modelo: Modelos)
+    fun onLongCLick(modelo: Modelos)
+    fun onClick(marca: Marcas)
+    fun onLongCLick(marca: Marcas)
+
 }

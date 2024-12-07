@@ -15,6 +15,12 @@
         android:theme="@style/Theme.CarVerse"
         tools:targetApi="31">
         <activity
+            android:name=".DatosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DatosActiviy"
+            android:exported="false" />
+        <activity
             android:name=".ModelsActivity"
             android:exported="false" />
         <activity

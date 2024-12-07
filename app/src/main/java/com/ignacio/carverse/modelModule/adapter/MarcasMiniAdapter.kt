@@ -12,7 +12,7 @@ import com.ignacio.carverse.R
 import com.ignacio.carverse.classes.Marcas
 import com.ignacio.carverse.databinding.ItemMiniBinding
 
-class MarcasMiniAdapter(private val marcas: List<Marcas>, private val listener: ModelsActivity): RecyclerView.Adapter<MarcasMiniAdapter.ViewHolder>() {
+class MarcasMiniAdapter(private val marcas: List<Marcas>, private val listener: OnClickListener): RecyclerView.Adapter<MarcasMiniAdapter.ViewHolder>() {
 
     private lateinit var context: Context
 
@@ -21,11 +21,11 @@ class MarcasMiniAdapter(private val marcas: List<Marcas>, private val listener: 
 
         fun setListener(marca: Marcas){
             binding.root.setOnClickListener{
-                listener.onCLick(marca)
+                listener.onClick(marca)
             }
 
             binding.root.setOnLongClickListener{
-                listener.onLongClick(marca)
+                listener.onLongCLick(marca)
                 true
             }
         }
